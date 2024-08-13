@@ -53,9 +53,9 @@ PACKAGES="sxhkd bspwm tumbler ffmpegthumbnailer lsd alacritty bat brightnessctl 
     p7zip gparted sshfs openvpn xclip gpick wget ueberzug netctl libreoffice \
     breeze vulkan-intel intel-ucode ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-fira-code \
     ttf-iosevka-nerd xdg-user-dirs mesa lib32-mesa xf86-video-nouveau xf86-video-intel vulkan-intel \
-    xorg xorg-xinit"
+    xorg xorg-xinit go bottom rust"
  
-AUR_PACKAGES="cava light web-greeter"
+AUR_PACKAGES="cava light lightdm-webkit-theme-aether sporify google-chrome docker-desktop"
 ##i3lock-color ptpython
 #GNOME_PACKAGES="evince gnome-calculator gnome-disk-utility gucharmap gthumb gnome-clocks"
 
@@ -81,13 +81,6 @@ cd /tmp/yay && makepkg -si
 echo Устанавливаю yay пакеты...
 yay -S $AUR_PACKAGES
 
-#Устанавливаем LightDm тему
-echo Устанавливаю LightDm тему...
-sudo sed -i 's/#greeter-session=example-gtk-gnome/greeter-session=web-greeter/' /etc/lightdm/lightdm.conf
-sudo sed -i 's/background_images_dir: \/usr\/share\/backgrounds/background_images_dir: \/usr\/share\/web-greeter\/themes\/shikai\/assets\/media\/wallpapers\//' /etc/lightdm/web-greeter.yml
-sudo sed -i 's/logo_image: \/usr\/share\/web-greeter\/themes\/default\/img\/antergos-logo-user.png /logo_image: \/usr\/share\/web-greeter\/themes\/shikai\/assets\/media\/logos\//' /etc/lightdm/web-greeter.yml
-sudo sed -i 's/theme: gruvbox/theme: shikai/' /etc/lightdm/web-greeter.yml
-sudo cp -r $script_dir/shikai /usr/share/web-greeter/themes/
 #Ставим тему firefox
 #echo Ставлю тему для Firefox...
 #timeout 10 firefox --headless
@@ -120,6 +113,8 @@ cp -r $script_dir/bin/ ~/
 sudo chmod -R 700 ~/.config/*
 sudo chmod -R +x ~/bin/*
 
+sudo systemctl enable iwd.service
+sudo systemctl enable dhcpcd
 sudo systemctl enable NetworkManager
 sudo systemctl enable bluetooth.service
 sudo systemctl enable lightdm.service
