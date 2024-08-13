@@ -53,7 +53,7 @@ PACKAGES="sxhkd bspwm tumbler ffmpegthumbnailer lsd alacritty bat brightnessctl 
     p7zip gparted sshfs openvpn xclip gpick wget ueberzug netctl libreoffice \
     breeze vulkan-intel intel-ucode ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-fira-code \
     ttf-iosevka-nerd xdg-user-dirs mesa lib32-mesa xf86-video-nouveau xf86-video-intel vulkan-intel \
-    xorg xorg-xinit go bottom rust docker docker-compose"
+    xorg xorg-xinit go bottom rust docker docker-compose zsh"
  
 AUR_PACKAGES="cava light lightdm-webkit-theme-aether sporify google-chrome docker-desktop"
 ##i3lock-color ptpython
@@ -109,6 +109,13 @@ cp -r $script_dir/bin/ ~/
 #Выставляем права
 sudo chmod -R 700 ~/.config/*
 sudo chmod -R +x ~/bin/*
+
+#Установка оболочки zim
+curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+
+#Замена дефолтного конфига zsh на собственный
+rm -rf ~/.zshrc
+cp $script_dir/.zshrc ~/.zshrc
 
 sudo systemctl enable iwd.service
 sudo systemctl enable dhcpcd
