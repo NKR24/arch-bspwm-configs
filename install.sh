@@ -53,7 +53,7 @@ PACKAGES="sxhkd bspwm tumbler ffmpegthumbnailer lsd alacritty bat brightnessctl 
     p7zip gparted sshfs openvpn xclip gpick wget ueberzug netctl libreoffice \
     breeze vulkan-intel intel-ucode ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-fira-code \
     ttf-iosevka-nerd xdg-user-dirs mesa lib32-mesa xf86-video-nouveau xf86-video-intel vulkan-intel \
-    xorg xorg-xinit go bottom rust"
+    xorg xorg-xinit go bottom rust docker docker-compose"
  
 AUR_PACKAGES="cava light lightdm-webkit-theme-aether sporify google-chrome docker-desktop"
 ##i3lock-color ptpython
@@ -81,9 +81,6 @@ cd /tmp/yay && makepkg -si
 echo Устанавливаю yay пакеты...
 yay -S $AUR_PACKAGES
 
-#Ставим тему firefox
-#echo Ставлю тему для Firefox...
-#timeout 10 firefox --headless
 #sh $script_dir/firefox/install.sh
 
 #Ставим i3lock-color
