@@ -49,7 +49,7 @@ save_to_clipboard = true
 semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
 
 [shell]
-program = "/bin/bash"
+program = "/usr/bin/zsh"
 
 [window]
 dynamic_title = true

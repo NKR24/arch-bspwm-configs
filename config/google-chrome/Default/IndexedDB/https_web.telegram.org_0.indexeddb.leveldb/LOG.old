@@ -1,0 +1,12 @@
+2024/08/14-02:08:35.216 8a78 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/14-02:08:35.216 8a78 Recovering log #4
+2024/08/14-02:08:35.216 8a78 Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000004.log 
+2024/08/14-02:08:38.503 8a79 Level-0 table #8: started
+2024/08/14-02:08:38.523 8a79 Level-0 table #8: 1674848 bytes OK
+2024/08/14-02:08:38.526 8a79 Delete type=0 #4
+2024/08/14-02:08:38.699 8a79 Compacting 1@1 + 1@2 files
+2024/08/14-02:08:38.729 8a79 Generated table #9@1: 2693 keys, 609368 bytes
+2024/08/14-02:08:38.729 8a79 Compacted 1@1 + 1@2 files => 609368 bytes
+2024/08/14-02:08:38.731 8a79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/14-02:08:38.731 8a79 Delete type=2 #5
+2024/08/14-02:08:38.731 8a79 Delete type=2 #8

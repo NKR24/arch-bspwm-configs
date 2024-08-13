@@ -1,0 +1,70 @@
+{
+   "action": {
+      "browser_style": true,
+      "default_icon": {
+         "128": "icons/smartproxy-128.png",
+         "16": "icons/smartproxy-16.png",
+         "24": "icons/smartproxy-24.png",
+         "48": "icons/smartproxy-48.png",
+         "96": "icons/smartproxy-96.png"
+      },
+      "default_popup": "ui/popup.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "author": "Salar Khalilzadeh",
+   "background": {
+      "service_worker": "core.js"
+   },
+   "commands": {
+      "next-proxy-server": {
+         "description": "Switch to next proxy server as the active proxy",
+         "suggested_key": {
+            "default": "Ctrl+Shift+Period",
+            "mac": "Command+Shift+Period"
+         }
+      },
+      "proxy-mode-always": {
+         "description": "Switch to 'Always Enabled' mode",
+         "suggested_key": {
+            "default": "Ctrl+Shift+3",
+            "mac": "Command+Shift+0"
+         }
+      },
+      "proxy-mode-none": {
+         "description": "Switch to 'No Proxy' mode",
+         "suggested_key": {
+            "default": "Ctrl+Shift+1",
+            "mac": "Command+Shift+1"
+         }
+      },
+      "proxy-mode-smart": {
+         "description": "Switch to 'Smart Proxy' mode",
+         "suggested_key": {
+            "default": "Ctrl+Shift+2",
+            "mac": "Command+Shift+2"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "homepage_url": "https://github.com/salarcode/SmartProxy",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/smartproxy-128.png",
+      "16": "icons/smartproxy-16.png",
+      "24": "icons/smartproxy-24.png",
+      "48": "icons/smartproxy-48.png",
+      "96": "icons/smartproxy-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAogq7cLnHzqoIMDGPcDTnAoEb4a8l369ptl+Ryb4AMXtMHX8VN5XB+/n7RuZ9mJ/72QOAS+VKs+oVW8ngpAJUu+J7b0pM8QaXLkRITZBneYFbjfLuxUoN6zYme3GQU0VXqvmTXJZie3cpZO0GYX6JYbYcUDLc1oDL7wkOfi2UCypVEsRMh2r13OTaCAC+YnysdRv26pZ743N/98xa+Kr/WAhEKkmtvo6GNoGVN35EZuJJ/yRM9SgDiemjYFGGT6SaEDtWf6D8MxSKuiBUm/AzAa1gNTpVWD8hRp1A0HsS4u3pKdaR/0jEIEx/IE0j20b4gcPIDGBxWI/vjarHbPFvrQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "100",
+   "name": "__MSG_extensionName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "ui/settings.html"
+   },
+   "permissions": [ "activeTab", "tabs", "proxy", "webRequest", "webRequestAuthProvider", "storage", "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5"
+}

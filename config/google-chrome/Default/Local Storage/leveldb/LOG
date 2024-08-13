@@ -1,0 +1,171 @@
+2024/08/13-18:18:42.163 4 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/08/13-18:18:42.171 4 Recovering log #33
+2024/08/13-18:18:42.171 4 Reusing old log /home/unixelf/.config/google-chrome/Default/Local Storage/leveldb/000033.log 
+2024/08/13-18:29:13.897 5 Level-0 table #37: started
+2024/08/13-18:29:13.905 5 Level-0 table #37: 242117 bytes OK
+2024/08/13-18:29:13.908 5 Delete type=0 #33
+2024/08/13-19:13:13.810 4 Level-0 table #39: started
+2024/08/13-19:13:13.819 4 Level-0 table #39: 10384 bytes OK
+2024/08/13-19:13:13.824 4 Delete type=0 #36
+2024/08/13-19:13:13.825 4 Compacting 4@0 + 1@1 files
+2024/08/13-19:13:13.856 4 Generated table #40@0: 511 keys, 507915 bytes
+2024/08/13-19:13:13.856 4 Compacted 4@0 + 1@1 files => 507915 bytes
+2024/08/13-19:13:13.859 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-19:13:13.861 4 Delete type=2 #34
+2024/08/13-19:13:13.861 4 Delete type=2 #39
+2024/08/13-19:13:13.861 4 Delete type=2 #32
+2024/08/13-19:13:13.861 4 Delete type=2 #30
+2024/08/13-19:13:13.861 4 Delete type=2 #37
+2024/08/13-19:59:13.810 4 Level-0 table #42: started
+2024/08/13-19:59:13.814 4 Level-0 table #42: 9632 bytes OK
+2024/08/13-19:59:13.819 4 Delete type=0 #38
+2024/08/13-20:33:13.810 5 Level-0 table #44: started
+2024/08/13-20:33:13.817 5 Level-0 table #44: 13195 bytes OK
+2024/08/13-20:33:13.821 5 Delete type=0 #41
+2024/08/13-20:37:13.811 5 Level-0 table #46: started
+2024/08/13-20:37:13.816 5 Level-0 table #46: 47641 bytes OK
+2024/08/13-20:37:13.821 5 Delete type=0 #43
+2024/08/13-20:38:13.810 4 Level-0 table #48: started
+2024/08/13-20:38:13.814 4 Level-0 table #48: 46230 bytes OK
+2024/08/13-20:38:13.818 4 Delete type=0 #45
+2024/08/13-20:38:13.818 4 Compacting 4@0 + 1@1 files
+2024/08/13-20:38:13.836 4 Generated table #49@0: 517 keys, 523989 bytes
+2024/08/13-20:38:13.836 4 Compacted 4@0 + 1@1 files => 523989 bytes
+2024/08/13-20:38:13.839 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-20:38:13.840 4 Delete type=2 #48
+2024/08/13-20:38:13.840 4 Delete type=2 #42
+2024/08/13-20:38:13.840 4 Delete type=2 #40
+2024/08/13-20:38:13.841 4 Delete type=2 #46
+2024/08/13-20:38:13.841 4 Delete type=2 #44
+2024/08/13-20:41:13.810 5 Level-0 table #51: started
+2024/08/13-20:41:13.815 5 Level-0 table #51: 46730 bytes OK
+2024/08/13-20:41:13.819 5 Delete type=0 #47
+2024/08/13-20:43:13.809 4 Level-0 table #53: started
+2024/08/13-20:43:13.816 4 Level-0 table #53: 46376 bytes OK
+2024/08/13-20:43:13.819 4 Delete type=0 #50
+2024/08/13-20:46:13.810 5 Level-0 table #55: started
+2024/08/13-20:46:13.816 5 Level-0 table #55: 48356 bytes OK
+2024/08/13-20:46:13.821 5 Delete type=0 #52
+2024/08/13-20:49:13.811 5 Level-0 table #57: started
+2024/08/13-20:49:13.820 5 Level-0 table #57: 48079 bytes OK
+2024/08/13-20:49:13.825 5 Delete type=0 #54
+2024/08/13-20:49:13.826 5 Compacting 4@0 + 1@1 files
+2024/08/13-20:49:13.858 5 Generated table #58@0: 517 keys, 525068 bytes
+2024/08/13-20:49:13.858 5 Compacted 4@0 + 1@1 files => 525068 bytes
+2024/08/13-20:49:13.861 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-20:49:13.862 5 Delete type=2 #51
+2024/08/13-20:49:13.862 5 Delete type=2 #57
+2024/08/13-20:49:13.862 5 Delete type=2 #55
+2024/08/13-20:49:13.862 5 Delete type=2 #53
+2024/08/13-20:49:13.862 5 Delete type=2 #49
+2024/08/13-20:49:49.966 4 Level-0 table #60: started
+2024/08/13-20:49:49.975 4 Level-0 table #60: 47491 bytes OK
+2024/08/13-20:49:49.981 4 Delete type=0 #56
+2024/08/13-20:52:02.966 5 Level-0 table #62: started
+2024/08/13-20:52:02.976 5 Level-0 table #62: 47979 bytes OK
+2024/08/13-20:52:02.982 5 Delete type=0 #59
+2024/08/13-20:53:13.811 5 Level-0 table #64: started
+2024/08/13-20:53:13.819 5 Level-0 table #64: 48756 bytes OK
+2024/08/13-20:53:13.825 5 Delete type=0 #61
+2024/08/13-20:54:13.810 5 Level-0 table #66: started
+2024/08/13-20:54:13.816 5 Level-0 table #66: 48620 bytes OK
+2024/08/13-20:54:13.819 5 Delete type=0 #63
+2024/08/13-20:54:13.820 5 Compacting 4@0 + 1@1 files
+2024/08/13-20:54:13.829 5 Generated table #67@0: 517 keys, 526100 bytes
+2024/08/13-20:54:13.829 5 Compacted 4@0 + 1@1 files => 526100 bytes
+2024/08/13-20:54:13.832 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-20:54:13.832 5 Delete type=2 #64
+2024/08/13-20:54:13.832 5 Delete type=2 #62
+2024/08/13-20:54:13.832 5 Delete type=2 #60
+2024/08/13-20:54:13.832 5 Delete type=2 #58
+2024/08/13-20:54:13.832 5 Delete type=2 #66
+2024/08/13-20:55:13.811 5 Level-0 table #69: started
+2024/08/13-20:55:13.817 5 Level-0 table #69: 49003 bytes OK
+2024/08/13-20:55:13.822 5 Delete type=0 #65
+2024/08/13-20:56:13.810 5 Level-0 table #71: started
+2024/08/13-20:56:13.834 5 Level-0 table #71: 48361 bytes OK
+2024/08/13-20:56:13.847 5 Delete type=0 #68
+2024/08/13-20:59:13.810 5 Level-0 table #73: started
+2024/08/13-20:59:13.818 5 Level-0 table #73: 48090 bytes OK
+2024/08/13-20:59:13.824 5 Delete type=0 #70
+2024/08/13-21:02:04.966 5 Level-0 table #75: started
+2024/08/13-21:02:04.976 5 Level-0 table #75: 48874 bytes OK
+2024/08/13-21:02:04.980 5 Delete type=0 #72
+2024/08/13-21:02:04.981 5 Compacting 4@0 + 1@1 files
+2024/08/13-21:02:04.995 5 Generated table #76@0: 517 keys, 526255 bytes
+2024/08/13-21:02:04.996 5 Compacted 4@0 + 1@1 files => 526255 bytes
+2024/08/13-21:02:04.998 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-21:02:04.999 5 Delete type=2 #71
+2024/08/13-21:02:04.999 5 Delete type=2 #73
+2024/08/13-21:02:04.999 5 Delete type=2 #75
+2024/08/13-21:02:04.999 5 Delete type=2 #67
+2024/08/13-21:02:04.999 5 Delete type=2 #69
+2024/08/13-21:04:13.810 5 Level-0 table #78: started
+2024/08/13-21:04:13.818 5 Level-0 table #78: 48975 bytes OK
+2024/08/13-21:04:13.823 5 Delete type=0 #74
+2024/08/13-21:06:17.407 4 Level-0 table #80: started
+2024/08/13-21:06:17.414 4 Level-0 table #80: 54824 bytes OK
+2024/08/13-21:06:17.417 4 Delete type=0 #77
+2024/08/13-21:09:19.966 5 Level-0 table #82: started
+2024/08/13-21:09:19.976 5 Level-0 table #82: 50870 bytes OK
+2024/08/13-21:09:19.981 5 Delete type=0 #79
+2024/08/13-21:13:13.811 5 Level-0 table #84: started
+2024/08/13-21:13:13.820 5 Level-0 table #84: 49287 bytes OK
+2024/08/13-21:13:13.825 5 Delete type=0 #81
+2024/08/13-21:13:13.827 5 Compacting 4@0 + 1@1 files
+2024/08/13-21:13:13.858 5 Generated table #85@0: 550 keys, 528261 bytes
+2024/08/13-21:13:13.858 5 Compacted 4@0 + 1@1 files => 528261 bytes
+2024/08/13-21:13:13.861 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-21:13:13.862 5 Delete type=2 #84
+2024/08/13-21:13:13.862 5 Delete type=2 #76
+2024/08/13-21:13:13.862 5 Delete type=2 #78
+2024/08/13-21:13:13.862 5 Delete type=2 #80
+2024/08/13-21:13:13.862 5 Delete type=2 #82
+2024/08/13-21:13:18.948 5 Level-0 table #87: started
+2024/08/13-21:13:18.957 5 Level-0 table #87: 48668 bytes OK
+2024/08/13-21:13:18.962 5 Delete type=0 #83
+2024/08/13-21:16:14.004 4 Level-0 table #89: started
+2024/08/13-21:16:14.013 4 Level-0 table #89: 54564 bytes OK
+2024/08/13-21:16:14.018 4 Delete type=0 #86
+2024/08/13-21:19:13.810 4 Level-0 table #91: started
+2024/08/13-21:19:13.815 4 Level-0 table #91: 49624 bytes OK
+2024/08/13-21:19:13.821 4 Delete type=0 #88
+2024/08/13-22:04:13.810 4 Level-0 table #93: started
+2024/08/13-22:04:13.815 4 Level-0 table #93: 9769 bytes OK
+2024/08/13-22:04:13.821 4 Delete type=0 #90
+2024/08/13-22:04:13.822 4 Compacting 4@0 + 1@1 files
+2024/08/13-22:04:13.854 4 Generated table #94@0: 566 keys, 529426 bytes
+2024/08/13-22:04:13.854 4 Compacted 4@0 + 1@1 files => 529426 bytes
+2024/08/13-22:04:13.857 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/13-22:04:13.858 4 Delete type=2 #93
+2024/08/13-22:04:13.858 4 Delete type=2 #85
+2024/08/13-22:04:13.859 4 Delete type=2 #87
+2024/08/13-22:04:13.859 4 Delete type=2 #89
+2024/08/13-22:04:13.859 4 Delete type=2 #91
+2024/08/13-22:50:13.811 5 Level-0 table #96: started
+2024/08/13-22:50:13.818 5 Level-0 table #96: 9750 bytes OK
+2024/08/13-22:50:13.824 5 Delete type=0 #92
+2024/08/13-23:35:13.811 5 Level-0 table #98: started
+2024/08/13-23:35:13.819 5 Level-0 table #98: 9319 bytes OK
+2024/08/13-23:35:13.824 5 Delete type=0 #95
+2024/08/14-01:44:19.832 4 Level-0 table #100: started
+2024/08/14-01:44:20.184 4 Level-0 table #100: 11166 bytes OK
+2024/08/14-01:44:20.188 4 Delete type=0 #97
+2024/08/14-01:51:19.832 5 Level-0 table #102: started
+2024/08/14-01:51:19.837 5 Level-0 table #102: 15944 bytes OK
+2024/08/14-01:51:19.842 5 Delete type=0 #99
+2024/08/14-01:51:19.843 5 Compacting 4@0 + 1@1 files
+2024/08/14-01:51:19.868 5 Generated table #103@0: 571 keys, 526668 bytes
+2024/08/14-01:51:19.868 5 Compacted 4@0 + 1@1 files => 526668 bytes
+2024/08/14-01:51:19.871 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/14-01:51:19.872 5 Delete type=2 #98
+2024/08/14-01:51:19.872 5 Delete type=2 #100
+2024/08/14-01:51:19.872 5 Delete type=2 #102
+2024/08/14-01:51:19.872 5 Delete type=2 #96
+2024/08/14-01:51:19.872 5 Delete type=2 #94
+2024/08/14-02:16:27.655 5 Level-0 table #105: started
+2024/08/14-02:16:27.660 5 Level-0 table #105: 17781 bytes OK
+2024/08/14-02:16:27.663 5 Delete type=0 #101
+2024/08/14-02:23:28.124 4 Level-0 table #107: started
+2024/08/14-02:23:28.130 4 Level-0 table #107: 17995 bytes OK
+2024/08/14-02:23:28.133 4 Delete type=0 #104

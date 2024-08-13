@@ -1,0 +1,1159 @@
+[2024-08-13 14:43:07.151] [27420] (engine.cpp:534): Created native Engine, time: Tue Aug 13 14:43:07 2024 MSK, logPath: /home/unixelf/.config/discord/0.0.63/modules/discord_voice/, logLevel: 2
+[2024-08-13 14:43:07.151] [27420] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.AppliedInputVolume.*` histogram stats.
+[2024-08-13 14:43:07.151] [27420] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.RecommendedInputVolume.*` histogram stats.
+[2024-08-13 14:43:07.151] [27420] (audio_processing_impl.cc:695): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2024-08-13 14:43:07.151] [27420] (audio_processing_impl.cc:708): AudioProcessing: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 0 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-08-13 14:43:07.151] [27420] (audio_processing_impl.cc:911): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:65): AudioDeviceBuffer::ctor
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:143): current platform is Linux
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:162): CreatePlatformSpecificObjects
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:991): PlatformAudioLayer
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:298): PulseAudio support is enabled.
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:303): Linux PulseAudio APIs will be utilized
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:344): AttachAudioBuffer
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:182): SetRecordingSampleRate(0)
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:188): SetPlayoutSampleRate(0)
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(0)
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:208): SetPlayoutChannels(0)
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:354): ActiveAudioLayer
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:65): AudioDeviceBuffer::ctor
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:143): current platform is Linux
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:162): CreatePlatformSpecificObjects
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:991): PlatformAudioLayer
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:298): PulseAudio support is enabled.
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:303): Linux PulseAudio APIs will be utilized
+[2024-08-13 14:43:07.151] [27420] (audio_device_impl.cc:344): AttachAudioBuffer
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:182): SetRecordingSampleRate(0)
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:188): SetPlayoutSampleRate(0)
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(0)
+[2024-08-13 14:43:07.151] [27420] (audio_device_buffer.cc:208): SetPlayoutChannels(0)
+[2024-08-13 14:43:07.151] [27420] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.AppliedInputVolume.*` histogram stats.
+[2024-08-13 14:43:07.151] [27420] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.RecommendedInputVolume.*` histogram stats.
+[2024-08-13 14:43:07.151] [27420] (audio_processing_impl.cc:695): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2024-08-13 14:43:07.151] [27420] (audio_processing_impl.cc:708): AudioProcessing: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 0 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-08-13 14:43:07.152] [27420] (audio_engine.cpp:445): Creating audio engine: standard
+[2024-08-13 14:43:07.152] [27420] (audio_device_impl.cc:364): Init
+[2024-08-13 14:43:07.156] [27420] (audio_device_impl.cc:364): Init
+[2024-08-13 14:43:07.157] [27420] (audio_coding.cpp:156): Using software Opus decoder
+[2024-08-13 14:43:07.157] [27420] (audio_coding.cpp:173): Using software Opus encoder
+[2024-08-13 14:43:07.157] [27420] (audio_device_impl.cc:895): RegisterAudioCallback
+[2024-08-13 14:43:07.157] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(100)
+[2024-08-13 14:43:07.157] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 14:43:07.157] [27420] (audio_device_impl.cc:895): RegisterAudioCallback
+[2024-08-13 14:43:07.157] [27420] (audio_engine.cpp:152): Setting audio input device: 'default'
+[2024-08-13 14:43:07.157] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:43:07.157] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:43:07.157] [27420] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-08-13 14:43:07.158] [27420] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-08-13 14:43:07.158] [27420] (audio_device_impl.cc:573): output: 1
+[2024-08-13 14:43:07.158] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:43:07.158] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:43:07.158] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 14:43:07.158] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 14:43:07.158] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 14:43:07.158] [27420] (audio_engine.cpp:169): Setting audio output device: 'default'
+[2024-08-13 14:43:07.158] [27420] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-08-13 14:43:07.158] [27420] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-08-13 14:43:07.159] [27420] (audio_device_impl.cc:619): output: 1
+[2024-08-13 14:43:07.159] [27420] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-08-13 14:43:07.159] [27420] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-08-13 14:43:07.159] [27420] (audio_device_impl.cc:911): BuiltInAECIsAvailable
+[2024-08-13 14:43:07.159] [27420] (audio_device_generic.cc:32): BuiltInAECIsAvailable: Not supported on this platform
+[2024-08-13 14:43:07.159] [27420] (audio_device_impl.cc:914): output: 0
+[2024-08-13 14:43:07.159] [27420] (audio_processing_impl.cc:911): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-08-13 14:43:07.159] [27420] (matched_filter.cc:141): AEC3: Pre echo configuration:  threshold = 0.5, mode =  3.
+[2024-08-13 14:43:07.159] [27420] (transparent_mode.cc:239): AEC3 Transparent Mode: Legacy
+[2024-08-13 14:43:07.159] [27420] (echo_canceller3.cc:793): AEC3 created with sample rate: 16000 Hz, num render channels: 1, num capture channels: 1
+[2024-08-13 14:43:07.159] [27420] (audio_processing_impl.cc:911): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-08-13 14:43:07.159] [27420] (clipping_predictor.cc:358): [AGC2] Clipping prediction disabled.
+[2024-08-13 14:43:07.159] [27420] (agc_manager_direct.cc:481): [agc] analog controller enabled: yes
+[2024-08-13 14:43:07.159] [27420] (agc_manager_direct.cc:484): [agc] Min mic level: 12 (overridden: no)
+[2024-08-13 14:43:07.159] [27420] (captured_audio_processor.cpp:127): SetNoiseCancellation: 0
+[2024-08-13 14:43:07.159] [27420] (audio_processing_impl.cc:911): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 1, level: High }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-08-13 14:43:07.159] [27420] (field_trial.cc:164): Setting field trial string:WebRTC-Audio-NetEqDecisionLogicConfig/reinit_after_expands:100/
+[2024-08-13 14:43:07.261] [27420] (audio_engine.cpp:152): Setting audio input device: 'default'
+[2024-08-13 14:43:07.261] [27420] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-08-13 14:43:07.261] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:43:07.261] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:43:07.261] [27420] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-08-13 14:43:07.262] [27420] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-08-13 14:43:07.262] [27420] (audio_device_impl.cc:573): output: 1
+[2024-08-13 14:43:07.262] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:43:07.262] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:43:07.262] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 14:43:07.262] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 14:43:07.262] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 14:43:07.262] [27420] (audio_engine.cpp:169): Setting audio output device: 'default'
+[2024-08-13 14:43:07.262] [27420] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-08-13 14:43:07.262] [27420] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-08-13 14:43:07.262] [27420] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-08-13 14:43:07.263] [27420] (audio_device_impl.cc:619): output: 1
+[2024-08-13 14:43:07.263] [27420] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-08-13 14:43:07.263] [27420] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-08-13 14:43:07.263] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 14:43:07.263] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 14:43:07.263] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 14:43:07.263] [27420] (engine_audio_transport.cpp:547): EngineAudioTransport::SetSidechainCompression 0
+[2024-08-13 14:43:07.265] [27404] (discord.cpp:765): JS console: ["%c[default]","[BUILD INFO] Release Channel: stable, Build Number: 317617, Version Hash: 8afb216c885360cbad23add13aed24a184033370"]
+[2024-08-13 14:43:07.460] [27404] (discord.cpp:765): JS console: ["Window state not initialized",null]
+[2024-08-13 14:43:07.469] [27404] (discord.cpp:765): JS console: ["%c[default]","[NATIVE INFO] host 0.0.63, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, build: null"]
+[2024-08-13 14:43:07.528] [27420] (audio_engine.cpp:152): Setting audio input device: 'default'
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:43:07.528] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:573): output: 1
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:43:07.528] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:43:07.528] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 14:43:07.528] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 14:43:07.528] [27420] (audio_engine.cpp:169): Setting audio output device: 'default'
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-08-13 14:43:07.528] [27420] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-08-13 14:43:07.529] [27420] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-08-13 14:43:07.529] [27420] (audio_device_impl.cc:619): output: 1
+[2024-08-13 14:43:07.529] [27420] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-08-13 14:43:07.529] [27420] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-08-13 14:43:07.533] [27404] (discord.cpp:765): JS console: ["%c[Spellchecker]","sh is not a valid locale."]
+[2024-08-13 14:43:07.634] [27404] (discord.cpp:765): JS console: ["%c[Spellchecker]","Switching to en-US","(available)"]
+[2024-08-13 14:43:08.281] [27404] (discord.cpp:765): JS console: ["%c[CloudSyncUtils]","CloudSync is not supported on this platform"]
+[2024-08-13 14:43:08.486] [27404] (discord.cpp:765): JS console: ["[DEPRECATED] Please use `subscribeWithSelector` middleware"]
+[2024-08-13 14:43:08.836] [27404] (discord.cpp:765): JS console: ["Initializing krisp module"]
+[2024-08-13 14:43:09.444] [27404] (discord.cpp:765): JS console: ["%c[RPCServer:WSS]","Starting on 6463"]
+[2024-08-13 14:43:09.451] [27404] (discord.cpp:765): JS console: ["%c[RPCServer:IPC]","Starting on /run/user/1000/discord-ipc-0"]
+[2024-08-13 14:43:11.800] [27404] (discord.cpp:765): JS console: ["%c[RPCServer:WSS]","Socket Message: 3","[object Object]"]
+[2024-08-13 14:43:11.805] [27404] (discord.cpp:765): JS console: ["%c[RPCServer:WSS]","Socket Emit: 3","[object Object]"]
+[2024-08-13 14:43:11.887] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2024-08-13 14:43:12.199] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[312ms] got hello, auth timeout=316490ms"]
+[2024-08-13 14:43:12.253] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[366ms] connected, handshaking with fingerprint: ABvpacW26LK7lbgFv-vsvFtNlR8h6ho1GxCge5IW3Gg"]
+[2024-08-13 14:43:12.421] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[534ms] computed nonce proof"]
+[2024-08-13 14:43:12.599] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[712ms] handshake complete awaiting remote auth."]
+[2024-08-13 14:43:24.180] [27420] (engine.cpp:238): *** OnDevicesChanged:
+[2024-08-13 14:43:24.180] [27420] (engine.cpp:239): * audioInput:
+[2024-08-13 14:43:24.180] [27420] (engine.cpp:242): - default: alsa_output.pci-0000_00_1f.3.analog-stereo.monitor ()
+[2024-08-13 14:43:24.180] [27420] (engine.cpp:242): - Built-in Audio Analog Stereo ()
+[2024-08-13 14:43:24.181] [27420] (engine.cpp:244): * audioOutput:
+[2024-08-13 14:43:24.181] [27420] (engine.cpp:247): - default: Built-in Audio Analog Stereo ()
+[2024-08-13 14:43:24.181] [27420] (engine.cpp:247): - Built-in Audio Analog Stereo ()
+[2024-08-13 14:43:24.183] [27420] (audio_engine.cpp:152): Setting audio input device: 'default'
+[2024-08-13 14:43:24.183] [27420] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-08-13 14:43:24.183] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:43:24.183] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:43:24.183] [27420] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-08-13 14:43:24.184] [27420] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-08-13 14:43:24.185] [27420] (audio_mixer_manager_pulse_linux.cc:429): input device index has not been set
+[2024-08-13 14:43:24.185] [27420] (audio_device_impl.cc:578): SetStereoRecording(0)
+[2024-08-13 14:43:24.185] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(1)
+[2024-08-13 14:43:24.185] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 14:43:24.185] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 14:43:24.185] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 14:45:55.306] [27420] (engine.cpp:238): *** OnDevicesChanged:
+[2024-08-13 14:45:55.306] [27420] (engine.cpp:239): * audioInput:
+[2024-08-13 14:45:55.306] [27420] (engine.cpp:242): - default: bluez_sink.44_F0_9E_38_88_A8.a2dp_sink.monitor ()
+[2024-08-13 14:45:55.306] [27420] (engine.cpp:242): - Built-in Audio Analog Stereo ()
+[2024-08-13 14:45:55.307] [27420] (engine.cpp:244): * audioOutput:
+[2024-08-13 14:45:55.307] [27420] (engine.cpp:247): - default: Беруши - Find My ()
+[2024-08-13 14:45:55.307] [27420] (engine.cpp:247): - Built-in Audio Analog Stereo ()
+[2024-08-13 14:45:55.307] [27420] (engine.cpp:247): - Беруши - Find My ()
+[2024-08-13 14:45:55.308] [27420] (audio_engine.cpp:152): Setting audio input device: 'default'
+[2024-08-13 14:45:55.308] [27420] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-08-13 14:45:55.308] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:45:55.308] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:45:55.308] [27420] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-08-13 14:45:55.310] [27420] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-08-13 14:45:55.310] [27420] (audio_mixer_manager_pulse_linux.cc:429): input device index has not been set
+[2024-08-13 14:45:55.311] [27420] (audio_device_impl.cc:578): SetStereoRecording(0)
+[2024-08-13 14:45:55.311] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(1)
+[2024-08-13 14:45:55.311] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 14:45:55.311] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 14:45:55.311] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 14:45:55.311] [27420] (audio_engine.cpp:169): Setting audio output device: 'default'
+[2024-08-13 14:45:55.311] [27420] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-08-13 14:45:55.311] [27420] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-08-13 14:45:55.312] [27420] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-08-13 14:45:55.312] [27420] (audio_device_impl.cc:619): output: 1
+[2024-08-13 14:45:55.312] [27420] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-08-13 14:45:55.312] [27420] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:238): *** OnDevicesChanged:
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:239): * audioInput:
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:242): - default: Беруши - Find My ()
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:242): - Built-in Audio Analog Stereo ()
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:242): - Беруши - Find My ()
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:244): * audioOutput:
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:247): - default: Беруши - Find My ()
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:247): - Built-in Audio Analog Stereo ()
+[2024-08-13 14:46:11.320] [27420] (engine.cpp:247): - Беруши - Find My ()
+[2024-08-13 14:46:11.320] [27420] (audio_engine.cpp:152): Setting audio input device: 'default'
+[2024-08-13 14:46:11.320] [27420] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-08-13 14:46:11.320] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 14:46:11.320] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 14:46:11.320] [27420] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-08-13 14:46:11.321] [27420] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-08-13 14:46:11.322] [27420] (audio_device_impl.cc:573): output: 0
+[2024-08-13 14:46:11.322] [27420] (audio_device_impl.cc:578): SetStereoRecording(0)
+[2024-08-13 14:46:11.322] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(1)
+[2024-08-13 14:46:11.322] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 14:46:11.322] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 14:46:11.322] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 14:48:28.762] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[316809ms] disconnected, code: 4003 Handshake Timeout"]
+[2024-08-13 14:48:28.762] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:48:32.868] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[320981ms] cleaning up"]
+[2024-08-13 14:48:32.868] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2024-08-13 14:48:33.159] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[290ms] got hello, auth timeout=300587ms"]
+[2024-08-13 14:48:33.225] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[357ms] connected, handshaking with fingerprint: uTP2sKFFWerJQJ2cKibSHnRVSzTxSY8C0X51VTADsK8"]
+[2024-08-13 14:48:33.406] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[537ms] computed nonce proof"]
+[2024-08-13 14:48:33.578] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[710ms] handshake complete awaiting remote auth."]
+[2024-08-13 14:51:20.032] [27404] (discord.cpp:765): JS console: ["%c[WindowVisibilityVideoManager]","Window visibility incoming video changed, incomingVideoEnabled = false"]
+[2024-08-13 14:53:33.822] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[300886ms] disconnected, code: 4003 Handshake Timeout"]
+[2024-08-13 14:53:33.822] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:53:38.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 14:54:39.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[366096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 14:54:39.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:54:49.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 14:55:20.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[407097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 14:55:20.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:55:45.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 14:56:02.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[449096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 14:56:02.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:56:32.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 14:56:43.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[490097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 14:56:43.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:57:14.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 14:57:24.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[531096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 14:57:24.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:57:55.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 14:58:05.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[572097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 14:58:05.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:58:36.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 14:58:47.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[614096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 14:58:47.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:59:18.016] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 14:59:28.015] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[655096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 14:59:28.015] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 14:59:59.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:00:09.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[696096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:00:09.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:00:40.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:00:50.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[737096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:00:50.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:01:21.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:01:32.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[779096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:01:32.036] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:02:03.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:02:13.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[820096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:02:13.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:02:44.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:02:54.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[861096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:02:54.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:03:25.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:03:35.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[902096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:03:35.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:04:06.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:04:17.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[944096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:04:17.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:04:48.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:04:58.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[985097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:04:58.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:05:29.025] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:05:39.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1026097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:05:39.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:06:10.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:06:20.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1067096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:06:20.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:06:51.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:07:02.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1109096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:07:02.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:07:33.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:07:43.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1150097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:07:43.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:08:14.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:08:24.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1191096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:08:24.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:08:55.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:09:05.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1232097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:09:05.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:09:36.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:09:47.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1274096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:09:47.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:10:18.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:10:28.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1315097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:10:28.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:10:59.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:11:09.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1356096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:11:09.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:11:40.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:11:50.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1397097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:11:50.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:12:21.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:12:32.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1439096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:12:32.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:13:03.024] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:13:13.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1480096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:13:13.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:13:44.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:13:54.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1521096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:13:54.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:14:25.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:14:35.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1562096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:14:35.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:15:06.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:15:17.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1604096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:15:17.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:15:48.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:15:58.023] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1645097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:15:58.024] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:16:29.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:16:39.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1686096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:16:39.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:17:10.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:17:20.006] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1727096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:17:20.006] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:17:51.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:18:02.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1769096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:18:02.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:18:33.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:18:43.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1810097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:18:43.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:19:14.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:19:24.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1851097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:19:24.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:19:55.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:20:05.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1892096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:20:05.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:20:36.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:20:47.022] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1934096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:20:47.022] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:21:18.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:21:28.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[1975097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:21:28.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:21:59.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:22:09.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2016096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:22:09.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:22:40.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:22:50.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2057097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:22:50.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:23:21.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:23:32.025] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2099096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:23:32.025] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:24:03.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:24:13.026] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2140096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:24:13.026] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:24:44.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:24:54.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2181096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:24:54.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:25:25.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:25:35.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2222096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:25:35.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:26:06.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:26:17.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2264096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:26:17.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:26:48.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:26:58.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2305097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:26:58.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:27:29.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:27:39.020] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2346099ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:27:39.021] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:28:10.047] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:28:20.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2387096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:28:20.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:28:51.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:29:02.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2429096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:29:02.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:29:33.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:29:43.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2470096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:29:43.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:30:14.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:30:24.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2511097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:30:24.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:30:55.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:31:05.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2552096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:31:05.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:31:36.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:31:47.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2594096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:31:47.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:32:18.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:32:28.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2635097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:32:28.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:32:59.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:33:09.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2676096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:33:09.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:33:40.029] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:33:50.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2717096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:33:50.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:34:21.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:34:32.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2759096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:34:32.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:35:03.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:35:13.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2800097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:35:13.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:35:44.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:35:54.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2841096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:35:54.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:36:25.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:36:35.030] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2882096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:36:35.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:37:06.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:37:17.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2924096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:37:17.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:37:48.027] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:37:58.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[2965097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:37:58.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:38:29.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:38:39.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3006097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:38:39.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:39:10.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:39:20.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3047096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:39:20.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:39:51.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:40:02.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3089096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:40:02.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:40:33.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:40:43.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3130097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:40:43.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:40:45.804] [27420] (engine.cpp:238): *** OnDevicesChanged:
+[2024-08-13 15:40:45.804] [27420] (engine.cpp:239): * audioInput:
+[2024-08-13 15:40:45.804] [27420] (engine.cpp:242): - default: alsa_output.pci-0000_00_1f.3.analog-stereo.monitor ()
+[2024-08-13 15:40:45.804] [27420] (engine.cpp:242): - Built-in Audio Analog Stereo ()
+[2024-08-13 15:40:45.804] [27420] (engine.cpp:244): * audioOutput:
+[2024-08-13 15:40:45.804] [27420] (engine.cpp:247): - default: Built-in Audio Analog Stereo ()
+[2024-08-13 15:40:45.804] [27420] (engine.cpp:247): - Built-in Audio Analog Stereo ()
+[2024-08-13 15:40:45.805] [27420] (audio_engine.cpp:152): Setting audio input device: 'default'
+[2024-08-13 15:40:45.805] [27420] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-08-13 15:40:45.806] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 15:40:45.806] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 15:40:45.806] [27420] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-08-13 15:40:45.807] [27420] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-08-13 15:40:45.808] [27420] (audio_mixer_manager_pulse_linux.cc:429): input device index has not been set
+[2024-08-13 15:40:45.808] [27420] (audio_device_impl.cc:578): SetStereoRecording(0)
+[2024-08-13 15:40:45.808] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(1)
+[2024-08-13 15:40:45.808] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 15:40:45.808] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 15:40:45.808] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 15:40:45.809] [27420] (audio_engine.cpp:169): Setting audio output device: 'default'
+[2024-08-13 15:40:45.809] [27420] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-08-13 15:40:45.809] [27420] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-08-13 15:40:45.809] [27420] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-08-13 15:40:45.811] [27420] (audio_device_impl.cc:619): output: 1
+[2024-08-13 15:40:45.811] [27420] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-08-13 15:40:45.811] [27420] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-08-13 15:41:14.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:41:24.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3171096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:41:24.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:41:55.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:42:05.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3212096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:42:05.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:42:36.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:42:47.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3254096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:42:47.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:43:18.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:43:28.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3295097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:43:28.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:43:59.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:44:09.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3336096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:44:09.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:44:40.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:44:50.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3377096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:44:50.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:45:21.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:45:32.022] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3419096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:45:32.022] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:46:03.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:46:13.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3460097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:46:13.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:46:44.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:46:54.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3501096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:46:54.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:47:25.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:47:35.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3542097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:47:35.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:48:06.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:48:17.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3584096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:48:17.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:48:48.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:48:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3625097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:48:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:49:29.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:49:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3666097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:49:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:50:10.009] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:50:20.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3707097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:50:20.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:50:51.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:51:02.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3749096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:51:02.028] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:51:33.005] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:51:43.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3790096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:51:43.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:52:14.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:52:24.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3831096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:52:24.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:52:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:53:05.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3872096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:53:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:53:36.014] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:53:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3914096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:53:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:54:18.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:54:28.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3955096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:54:28.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:54:59.022] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:55:09.037] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[3996096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:55:09.038] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:55:40.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:55:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4037097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:55:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:56:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:56:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4079096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:56:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:57:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:57:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4120096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:57:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:57:44.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:57:54.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4161097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:57:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:58:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:58:35.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4202097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:58:35.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:59:06.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:59:17.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4244096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:59:17.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 15:59:48.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 15:59:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4285097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 15:59:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:00:29.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:00:39.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4326096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:00:39.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:01:10.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:01:20.038] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4367097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:01:20.038] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:01:51.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:02:02.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4409096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:02:02.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:02:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:02:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4450096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:02:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:03:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:03:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4491097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:03:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:03:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:04:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4532096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:04:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:04:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:04:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4574096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:04:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:05:18.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:05:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4615097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:05:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:05:59.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:06:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4656096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:06:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:06:40.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:06:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4697096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:06:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:07:21.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:07:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4739097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:07:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:08:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:08:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4780096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:08:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:08:44.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:08:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4821096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:08:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:09:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:09:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4862096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:09:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:10:06.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:10:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4904096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:10:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:10:48.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:10:58.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4945097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:10:58.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:11:29.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:11:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[4986096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:11:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:12:10.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:12:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5027096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:12:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:12:51.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:13:02.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5069096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:13:02.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:13:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:13:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5110096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:13:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:14:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:14:24.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5151097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:14:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:14:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:15:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5192096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:15:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:15:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:15:47.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5234096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:15:47.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:16:18.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:16:28.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5275097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:16:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:16:59.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:17:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5316097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:17:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:17:40.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:17:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5357097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:17:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:18:21.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:18:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5399096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:18:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:19:03.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:19:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5440096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:19:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:19:44.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:19:54.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5481096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:19:54.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:20:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:20:35.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5522096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:20:35.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:21:06.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:21:17.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5564096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:21:17.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:21:48.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:21:58.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5605097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:21:58.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:22:29.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:22:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5646096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:22:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:23:10.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:23:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5687097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:23:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:23:51.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:24:02.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5729096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:24:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:24:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:24:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5770097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:24:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:25:14.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:25:24.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5811096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:25:24.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:25:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:26:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5852097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:26:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:26:36.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:26:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5894096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:26:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:27:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:27:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5935097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:27:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:27:59.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:28:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[5976096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:28:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:28:40.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:28:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6017096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:28:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:29:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:29:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6059096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:29:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:30:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:30:13.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6100097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:30:13.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:30:44.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:30:54.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6141097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:30:54.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:31:25.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:31:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6182096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:31:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:32:06.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:32:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6224096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:32:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:32:48.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:32:58.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6265097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:32:58.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:33:29.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:33:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6306096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:33:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:34:10.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:34:20.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6347097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:34:20.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:34:51.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:35:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6389096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:35:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:35:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:35:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6430097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:35:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:36:14.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:36:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6471096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:36:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:36:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:37:05.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6512097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:37:05.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:37:36.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:37:47.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6554096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:37:47.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:38:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:38:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6595097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:38:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:38:59.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:39:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6636096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:39:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:39:40.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:39:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6677096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:39:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:40:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:40:32.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6719096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:40:32.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:41:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:41:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6760096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:41:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:41:44.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:41:54.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6801096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:41:54.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:42:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:42:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6842096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:42:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:43:06.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:43:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6884096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:43:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:43:48.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:43:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6925097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:43:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:44:29.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:44:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[6966097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:44:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:45:10.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:45:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7007096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:45:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:45:51.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:46:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7049096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:46:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:46:33.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:46:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7090097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:46:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:47:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:47:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7131096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:47:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:47:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:48:05.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7172096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:48:05.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:48:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:48:47.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7214096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:48:47.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:49:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:49:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7255097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:49:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:49:59.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:50:09.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7296097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:50:09.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:50:40.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:50:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7337096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:50:50.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:51:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:51:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7379096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:51:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:52:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:52:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7420096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:52:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:52:44.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:52:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7461096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:52:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:53:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:53:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7502097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:53:35.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:54:06.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:54:17.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7544096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:54:17.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:54:48.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:54:58.004] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7585097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:54:58.004] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:55:29.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:55:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7626096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:55:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:56:10.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:56:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7667097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:56:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:56:51.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:57:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7709097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:57:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:57:33.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:57:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7750096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:57:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:58:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:58:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7791097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:58:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:58:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:59:05.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7832096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:59:05.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 16:59:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 16:59:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7874096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 16:59:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:00:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:00:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7915097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:00:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:00:59.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:01:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7956097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:01:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:01:40.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:01:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[7997096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:01:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:02:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:02:32.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8039096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:02:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:03:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:03:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8080096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:03:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:03:44.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:03:54.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8121096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:03:54.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:04:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:04:35.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8162096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:04:35.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:05:06.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:05:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8204096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:05:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:05:48.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:05:58.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8245097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:05:58.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:06:29.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:06:39.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8286097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:06:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:07:10.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:07:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8327097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:07:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:07:51.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:08:02.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8369096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:08:02.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:08:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:08:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8410096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:08:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:09:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:09:24.023] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8451096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:09:24.023] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:09:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:10:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8492096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:10:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:10:36.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:10:47.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8534096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:10:47.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:11:18.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:11:28.037] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8575097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:11:28.037] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:11:59.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:12:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8616097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:12:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:12:40.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:12:50.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8657096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:12:50.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:13:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:13:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8699096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:13:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:14:03.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:14:13.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8740096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:14:13.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:14:44.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:14:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8781097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:14:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:15:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:15:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8822096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:15:35.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:16:06.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:16:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8864096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:16:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:16:48.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:16:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8905097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:16:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:17:29.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:17:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8946096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:17:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:18:09.999] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:18:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[8987097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:18:20.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:18:51.036] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:19:02.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9029096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:19:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:19:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:19:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9070096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:19:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:20:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:20:24.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9111096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:20:24.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:20:55.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:21:05.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9152096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:21:05.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:21:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:21:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9194096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:21:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:22:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:22:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9235097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:22:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:22:59.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:23:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9276096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:23:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:23:40.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:23:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9317096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:23:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:24:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:24:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9359096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:24:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:25:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:25:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9400097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:25:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:25:44.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:25:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9441097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:25:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:26:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:26:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9482097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:26:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:27:06.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:27:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9524097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:27:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:27:48.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:27:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9565097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:27:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:28:29.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:28:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9606097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:28:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:29:10.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:29:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9647096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:29:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:29:51.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:30:02.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9689096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:30:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:30:33.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:30:43.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9730096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:30:43.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:31:14.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:31:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9771096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:31:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:31:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:32:05.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9812096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:32:05.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:32:36.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:32:47.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9854096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:32:47.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:33:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:33:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9895097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:33:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:33:59.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:34:09.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9936096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:34:09.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:34:40.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:34:50.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[9977097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:34:50.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:35:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:35:32.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10019096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:35:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:36:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:36:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10060097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:36:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:36:44.031] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:36:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10101097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:36:54.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:37:25.035] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:37:35.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10142097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:37:35.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:38:06.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:38:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10184096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:38:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:38:48.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:38:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10225097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:38:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:39:29.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:39:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10266096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:39:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:40:10.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:40:20.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10307096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:40:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:40:51.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:41:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10349096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:41:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:41:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:41:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10390097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:41:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:42:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:42:24.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10431096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:42:24.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:42:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:43:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10472096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:43:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:43:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:43:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10514096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:43:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:44:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:44:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10555097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:44:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:44:59.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:45:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10596097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:45:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:45:40.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:45:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10637096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:45:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:46:21.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:46:32.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10679096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:46:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:47:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:47:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10720097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:47:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:47:44.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:47:54.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10761097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:47:54.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:48:25.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:48:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10802096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:48:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:49:06.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:49:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10844096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:49:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:49:48.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:49:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10885097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:49:58.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:50:29.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:50:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10926096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:50:39.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:51:10.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:51:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[10967096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:51:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:51:51.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:52:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11009096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:52:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:52:33.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:52:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11050097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:52:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:53:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:53:24.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11091096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:53:24.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:53:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:54:05.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11132096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:54:05.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:54:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:54:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11174096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:54:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:55:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:55:28.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11215097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:55:28.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:55:59.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:56:09.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11256097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:56:09.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:56:40.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:56:50.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11297096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:56:50.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:57:21.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:57:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11339096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:57:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:58:03.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:58:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11380096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:58:13.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:58:44.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:58:54.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11421096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:58:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 17:59:25.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 17:59:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11462097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 17:59:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:00:06.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:00:17.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11504096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:00:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:00:48.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:00:58.036] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11545097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:00:58.036] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:01:29.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:01:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11586097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:01:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:02:10.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:02:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11627096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:02:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:02:51.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:03:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11669096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:03:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:03:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:03:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11710097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:03:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:04:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:04:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11751096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:04:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:04:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:05:05.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11792096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:05:05.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:05:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:05:47.124] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11834096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:05:47.124] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:06:18.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:06:18.801] [27420] (engine.cpp:238): *** OnDevicesChanged:
+[2024-08-13 18:06:18.801] [27420] (engine.cpp:239): * audioInput:
+[2024-08-13 18:06:18.801] [27420] (engine.cpp:242): - default: USB PnP Audio Device Mono ()
+[2024-08-13 18:06:18.801] [27420] (engine.cpp:242): - Built-in Audio Analog Stereo ()
+[2024-08-13 18:06:18.801] [27420] (engine.cpp:242): - USB PnP Audio Device Mono ()
+[2024-08-13 18:06:18.801] [27420] (engine.cpp:244): * audioOutput:
+[2024-08-13 18:06:18.801] [27420] (engine.cpp:247): - default: Built-in Audio Analog Stereo ()
+[2024-08-13 18:06:18.801] [27420] (engine.cpp:247): - Built-in Audio Analog Stereo ()
+[2024-08-13 18:06:18.803] [27420] (audio_engine.cpp:152): Setting audio input device: 'default'
+[2024-08-13 18:06:18.803] [27420] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-08-13 18:06:18.803] [27420] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-08-13 18:06:18.803] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-08-13 18:06:18.803] [27420] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-08-13 18:06:18.804] [27420] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-08-13 18:06:18.807] [27420] (audio_device_impl.cc:573): output: 0
+[2024-08-13 18:06:18.807] [27420] (audio_device_impl.cc:578): SetStereoRecording(0)
+[2024-08-13 18:06:18.807] [27420] (audio_device_buffer.cc:202): SetRecordingChannels(1)
+[2024-08-13 18:06:18.807] [27420] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-08-13 18:06:18.807] [27420] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-08-13 18:06:18.807] [27420] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-08-13 18:06:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11875097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:06:28.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:06:59.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:07:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11916096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:07:09.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:07:40.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:07:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11957096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:07:50.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:08:21.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:08:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[11999096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:08:32.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:09:03.032] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:09:13.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12040096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:09:13.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:09:44.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:09:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12081096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:09:54.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:10:25.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:10:35.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12122097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:10:35.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:11:06.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:11:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12164096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:11:17.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:11:48.003] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:11:58.033] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12205097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:11:58.034] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:12:29.000] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:12:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12246096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:12:39.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:13:10.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:13:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12287097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:13:20.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:13:51.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:14:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12329096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:14:02.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:14:33.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:14:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12370097ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:14:43.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:15:14.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:15:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12411096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:15:24.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:15:55.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:16:05.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12452096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:16:05.002] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:16:36.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","document is not visible, will defer reconnection when document becomes visible."]
+[2024-08-13 18:16:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12494096ms] heartbeat timeout, reconnecting."]
+[2024-08-13 18:16:47.001] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2024-08-13 18:17:08.447] [27404] (discord.cpp:765): JS console: ["%c[WindowVisibilityVideoManager]","Window visibility incoming video changed, incomingVideoEnabled = true"]
+[2024-08-13 18:17:08.460] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","reconnecting, now that document is visible"]
+[2024-08-13 18:17:08.462] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[12515593ms] cleaning up"]
+[2024-08-13 18:17:08.462] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2024-08-13 18:17:08.930] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[468ms] got hello, auth timeout=328703ms"]
+[2024-08-13 18:17:09.012] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[550ms] connected, handshaking with fingerprint: QmcF46BmHoBsJZeD__78zVJ4rwI8eMTlnQU7BDin9UE"]
+[2024-08-13 18:17:09.212] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[749ms] computed nonce proof"]
+[2024-08-13 18:17:09.438] [27404] (discord.cpp:765): JS console: ["%c[LoginQRSocket]","[976ms] handshake complete awaiting remote auth."]

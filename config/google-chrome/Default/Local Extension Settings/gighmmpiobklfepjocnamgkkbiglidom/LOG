@@ -1,0 +1,24 @@
+2024/08/13-18:18:42.791 8a7a Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2024/08/13-18:18:42.792 8a7a Recovering log #22
+2024/08/13-18:18:42.800 8a7a Reusing old log /home/unixelf/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000022.log 
+2024/08/13-19:18:46.303 8a78 Level-0 table #26: started
+2024/08/13-19:18:46.327 8a78 Level-0 table #26: 1891794 bytes OK
+2024/08/13-19:18:46.330 8a78 Delete type=0 #22
+2024/08/13-22:18:46.287 8a78 Level-0 table #28: started
+2024/08/13-22:18:46.312 8a78 Level-0 table #28: 2000573 bytes OK
+2024/08/13-22:18:46.315 8a78 Delete type=0 #25
+2024/08/14-01:43:52.450 8a79 Level-0 table #30: started
+2024/08/14-01:43:52.470 8a79 Level-0 table #30: 1845503 bytes OK
+2024/08/14-01:43:52.473 8a79 Delete type=0 #27
+2024/08/14-01:43:53.077 8a79 Level-0 table #32: started
+2024/08/14-01:43:53.101 8a79 Level-0 table #32: 1844009 bytes OK
+2024/08/14-01:43:53.104 8a79 Delete type=0 #29
+2024/08/14-01:43:53.105 8a79 Compacting 4@0 + 1@1 files
+2024/08/14-01:43:53.135 8a79 Generated table #33@0: 7 keys, 1847704 bytes
+2024/08/14-01:43:53.135 8a79 Compacted 4@0 + 1@1 files => 1847704 bytes
+2024/08/14-01:43:53.137 8a79 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/14-01:43:53.137 8a79 Delete type=2 #23
+2024/08/14-01:43:53.137 8a79 Delete type=2 #32
+2024/08/14-01:43:53.137 8a79 Delete type=2 #30
+2024/08/14-01:43:53.137 8a79 Delete type=2 #26
+2024/08/14-01:43:53.137 8a79 Delete type=2 #28

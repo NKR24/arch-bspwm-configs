@@ -1,0 +1,6883 @@
+[
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||23.83.114.131^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865690
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||2miners.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865691
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||35.194.26.233^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865692
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||45.15.156.210^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865693
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||35.239.57.233^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865694
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||45.32.105.134^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865695
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||77.162.125.199^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865696
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||185.165.169.108^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865697
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||a-calc.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865698
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||acbp0020171456.page.tl^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865699
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ad-miner.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865700
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||adless.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865701
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||adminer.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865702
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||aeros02.tk^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865703
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||aeros12.tk^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865704
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||afminer.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865705
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||analytics.blue^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865706
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||andlache.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865707
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ashgrrwt.click^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865708
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||authedmine.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865709
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||authedmine.eu^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865710
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||authedwebmine.cz^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "excludedDomains": [
+        "webmine.cz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865711
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bablace.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865712
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865713
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||baiduccdn1.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865714
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||becanium.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865715
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||belicimo.pw^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865716
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||besocial.online^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865717
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bestcoinsignals.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865718
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bestsrv.de^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865719
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bewaslac.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865720
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bhzejltg.info^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865721
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||biberukalap.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865722
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||binarybusiness.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865723
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bitcoin-cashcard.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865724
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bmcm.pw^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865725
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bmnr.pw^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865726
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bmst.pw^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865727
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||brominer.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865728
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||browsermine.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865729
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||candid.zone^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865730
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cashbeet.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865731
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.cloudcoins.co^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865732
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cfcdist.gdn^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865733
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||clgserv.pro^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865734
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cloud-miner.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865735
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cloud-miner.eu^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865736
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cloudcdn.gdn^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865737
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cloudflane.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865738
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cnhv.co^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865739
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coin-have.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865740
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coinblind.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865741
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coinerra.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865742
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coinimp.com",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865743
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coinimp.net",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865744
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coinnebula.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865745
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coinpirate.cf^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865746
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coinpot.co^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865747
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||coinrail.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865748
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cpufan.club^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865749
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cryptaloot.pro^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865750
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||crypto-loot.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865751
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||crypto-webminer.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865752
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||crypto.csgocpu.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865753
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cryptobara.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865754
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cryptoloot.pro^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865755
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cryptonoter.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865756
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||datasecu.download^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865757
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||devphp.org.ua^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865758
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||dontbeevils.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865759
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||donttbeevils.de^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865760
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||easyhash.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865761
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||eth-pocket.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865762
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||eth-pocket.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865763
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ethereum-cashcard.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865764
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ethereum-pocket.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865765
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||eucsoft.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865766
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||evilsbedont.de^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865767
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||f1tbit.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865768
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||filmoljupci.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865769
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||flare-analytics.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865770
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||formulawire.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865771
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||g1thub.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865772
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||gay-hotvideo.net^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865773
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||go.bestmobiworld.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865774
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||go.fastspot.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865775
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||go.megabanners.cf^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865776
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||go.megabanners.cf^",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865777
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||gridiogrid.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865778
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||gxbrowser.net^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865779
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hemnes.win^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865780
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||herominers.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865781
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||icemining.ca^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865782
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||igrid.org^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865783
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865784
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||intelserviceupdate.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865785
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||jqwww.download^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865786
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||jscdndel.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865787
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||jscoinminer.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865788
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||jsecoin.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865789
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||laserveradedomaina.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865790
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||lightminer.co^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865791
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||losital.ru^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865792
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||machieved.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865793
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mail.ghmproperties.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865794
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mail.itseasy.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865795
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mail.shaferglazer.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865796
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mail.techniservinc.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865797
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mepirtedic.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865798
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mi-de-ner-nis3.info^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865799
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mine.blank.drawpad.org^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865800
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mine.terorie.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865801
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||minemytraffic.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865802
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||miner.nimiq.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865803
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||minerad.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865804
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||minero-proxy-*.now.sh^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865805
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mining.best^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865806
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||monerominer.rocks^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865807
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mutuza.win^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865808
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||my.domain^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865809
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nablabee.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865810
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nametraff.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865811
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nerohut.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865812
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||netflare.info^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865813
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nfwebminer.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865814
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nim.sh^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865815
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nimiq.agency^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865816
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nimiq.jp^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865817
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nimiq.network^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865818
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nimiq.surf^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865819
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nimiq.terorie.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865820
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nimiq.watch^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865821
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nimiqchina.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865822
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nimiqpool.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865823
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nitrokod.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865824
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||notmining.org^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865825
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||offerreality.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865826
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ogrid.org^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865827
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pampopholf.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865828
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||papoto.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865829
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||party-vqgdyvoycc.now.sh^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865830
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pertholin.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865831
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||premiumstats.xyz^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865832
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pr0gram.org^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865833
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pzoifaum.info^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865834
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||reauthenticator.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865835
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||roastedvolt.net^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865836
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||rocks.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865837
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||scaleway.ovh^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865838
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||seed-*.nimiq-network.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865839
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||seed-*.nimiq.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865840
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||seed-*.nimiq.network^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865841
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||serie-vostfr.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865842
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||serv1swork.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865843
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||silimbompom.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865844
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sourcecode.pro^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865845
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||spacepools.org^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865846
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sparechange.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865847
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||srcip.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865848
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||srcips.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865849
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||statdynamic.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865850
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||statistic.date^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865851
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||stonecalcom.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865852
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||str1kee.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865853
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sunnimiq.cf^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865854
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||swiftmining.win^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865855
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||tercabilis.info^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865856
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||thewhizmarketing.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865857
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||thewhizproducts.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865858
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||thewise.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865859
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||traffic.tc-clicks.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865860
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||trustaproiam.de^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865861
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||trusteverything.de^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865862
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||trustiseverything.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865863
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||tulip18.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865864
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||verifier.live^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865865
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vkcdnservice.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865866
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vuryua.ru^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865867
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webapi.salamantex.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865868
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webapi.staging.salamantex.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865869
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webmine.cz^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865870
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webmine.pro^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865871
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webminepool.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865872
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webminerpool.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865873
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webmining.co^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865874
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webxmr.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865875
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||wordc.ga^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865876
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||wtm.monitoringservice.co^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865877
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||xmr.cool^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865878
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||zlx.com.br^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865879
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||freecontent.date",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865880
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||freecontent.live",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865881
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||freecontent.stream",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865882
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hostcontent.live",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865883
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hostingcloud.party",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865884
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hostingcloud.racing",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865885
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||wasm.stream",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865886
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||flightsy.win",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865887
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||flightzy.date",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865888
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hashing.win",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865889
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webassembly.stream",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865890
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-coin-hive.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865891
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-crypto-miner/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865892
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-monero-miner-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865893
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-monero-miner.",
+      "isUrlFilterCaseSensitive": false,
+      "excludedDomains": [
+        "wp-monero-miner.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865894
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-monero-miner/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865895
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/authedmine.",
+      "resourceTypes": [
+        "script"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "excludedDomains": [
+        "authedmine.com",
+        "authedmine.eu"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865896
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/authedminer.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865897
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bitcoin-plus-miner/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865898
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bitcoincore/?ref=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865899
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bootstrap.wasm",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865900
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bootstrap.wasm",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865901
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/browsermine.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865902
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/c-hive.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865903
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/c.wasm",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865904
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cloudcoins.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865905
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cloudcoins.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865906
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cn.wasm",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865907
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/coin-hive-proxy-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865908
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/coinblind.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865909
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/coinblind_beta.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865910
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/coingofile.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865911
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/coinhive-proxy-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865912
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/coinhive.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865913
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/coinlab.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865914
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/compact_miner?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865915
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/crn.wasm",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865916
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/crypta.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865917
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/crypto-webminer.",
+      "isUrlFilterCaseSensitive": false,
+      "excludedDomains": [
+        "crypto-webminer.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865918
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cryptocpu.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865919
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cryptonight-worker.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865920
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cryptonight.wasm",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865921
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cryptonoter.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865922
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/deepminer.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865923
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/deepminer.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865924
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/dprocessor.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865925
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/hash.wasm",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865926
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/helper.wasm",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865927
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/inject.js?key=",
+      "resourceTypes": [
+        "script"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865928
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/jsecoin.*/?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865929
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/lhnhelpouttab-current.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865930
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/lib/crlt.js",
+      "resourceTypes": [
+        "script"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865931
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/media/miner.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865932
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/mine/bitcoincore/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865933
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/miner_proxy",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865934
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/miner-ui.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865935
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/miner.*/crypto-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865936
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/miner.*/loader.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865937
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/miner.full.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865938
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/miner.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865939
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/miner.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865940
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/miner?key=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865941
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/minera.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865942
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/minero-proxy-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865943
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/minescripts.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865944
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/nano.wasm",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865945
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/noblock.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865946
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/obfus.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865947
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/projectpoi.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865948
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/poolstatus?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865949
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/safelinkconverter.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865950
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/script_cry.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865951
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/web_miner/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865952
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/webcoin.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865953
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/webcoin.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865954
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/webmr.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865955
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/webxmr.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865956
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wproxy",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865957
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/xminer.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865958
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/xminer.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865959
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/xmr-monero.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865960
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/xmr.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865961
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/xmr.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865962
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "?*.spacepools.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865963
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".spacepools.*:",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865964
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".aspx?poolid=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865965
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".cfm?poolid=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865966
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "=ws://*?pool=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865967
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "=ws://*?pools=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865968
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "=wss://*?pool=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865969
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "=wss://*?pools=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865970
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "?proxy=*?pool=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865971
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "?proxy=*?pools=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865972
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "?proxy=ws://",
+      "resourceTypes": [
+        "script",
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865973
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "?proxy=wss://",
+      "resourceTypes": [
+        "script",
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865974
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": ".info^",
+      "isUrlFilterCaseSensitive": false,
+      "domains": [
+        "sleeptimer.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865975
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".website/lib/*.wasm",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865976
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "domains": [
+        "123telugu.com",
+        "300mbfilms.co",
+        "ajplugins.com",
+        "animeteatr.ru",
+        "arnaques-internet.info",
+        "atk-exotics.com",
+        "atkebony.com",
+        "babyjav.com",
+        "bigspeeds.com",
+        "btstors.com",
+        "bustrain.net",
+        "centrum-dramy.pl",
+        "chemikino.ru",
+        "cinemafacil.com",
+        "citypaintsupplyghana.com",
+        "clipwatching.com",
+        "coinfaucet.eu",
+        "coinhub.win",
+        "cracklists.com",
+        "crictime.com",
+        "crictime.is",
+        "dekoder.ws",
+        "deltabit.co",
+        "descargas2020.com",
+        "djs.sk",
+        "domnuleprimar.ro",
+        "dragonballzpolo.blogspot.com",
+        "eduardolegatti.blogspot.com",
+        "fileone.tv",
+        "filmonet.com",
+        "filmovix.com",
+        "filmovix.net",
+        "filmovix.org",
+        "filmstreamvk.me",
+        "filmstreamvk.net",
+        "filmstreamvk.org",
+        "filmstreamvk.site",
+        "filmyhd.cz",
+        "firstone.tv",
+        "firstonetv.eu",
+        "firstonetv.live",
+        "fruithosts.net",
+        "funtik.tv",
+        "genashowalter.com",
+        "hdvid.tv",
+        "hqq.tv",
+        "ianimes.co",
+        "inside-out.xyz",
+        "javdl.co",
+        "jkanime.net",
+        "kickass.cd",
+        "kinohabr.net",
+        "kinokongo.cc",
+        "kinoprofi.org",
+        "kinosha.cc",
+        "lafmacun.net",
+        "leitor.net",
+        "lewd.ninja",
+        "love-drama.pl",
+        "mladipodnikatelia.sk",
+        "movie4k.is",
+        "mrunlock.icu",
+        "myfeed4u.net",
+        "nahnoji.cz",
+        "netiap.com",
+        "neurozinzin.com",
+        "novator.az",
+        "novoscrb.ru",
+        "onlinevideoconverter.com",
+        "openload.cc",
+        "pebx.pl",
+        "peliculas24.me",
+        "pelisplus.online",
+        "pezeshk.us",
+        "potomy.ru",
+        "powvideo.cc",
+        "powvideo.net",
+        "protect-iframe.com",
+        "protect-link.biz",
+        "rapidvideo.com",
+        "reactor.cc",
+        "rednubes.de",
+        "salon.com",
+        "seriesenlinea.net",
+        "severita-service.ru",
+        "sherlockonline.ru",
+        "shrink-service.it",
+        "shush.se",
+        "sickrage.ca",
+        "sleeptimer.org",
+        "sorteosrd.com",
+        "studio100.it",
+        "tapemovie.com",
+        "tarntercum.ru",
+        "theappguruz.com",
+        "tomadivx.tv",
+        "torrentrapid.com",
+        "tubetitties.com",
+        "tugaanimado.net",
+        "uptobox.com",
+        "uptobox.fr",
+        "uptobox.link",
+        "uptostream.com",
+        "uptostream.fr",
+        "uptostream.link",
+        "uptostream.eu",
+        "vev.io",
+        "vidfile.net",
+        "vidoza.co",
+        "vidoza.net",
+        "vidtudu.com",
+        "vidup.me",
+        "void.cat",
+        "voirfilms.mx",
+        "wallpoper.com",
+        "wearesaudis.net",
+        "yourjav.com",
+        "zona.plus"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865977
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "xmlhttprequest"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "domains": [
+        "auroravid.to",
+        "dekoder.ws",
+        "powvideo.cc",
+        "powvideo.net",
+        "sorteosrd.com",
+        "vidfile.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 865978
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||123telugu.com^"
+    },
+    "priority": 2000,
+    "id": 865979
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||300mbfilms.co^"
+    },
+    "priority": 2000,
+    "id": 865980
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||agp.com.pk^"
+    },
+    "priority": 2000,
+    "id": 865981
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||ajplugins.com^"
+    },
+    "priority": 2000,
+    "id": 865982
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||animeteatr.ru^"
+    },
+    "priority": 2000,
+    "id": 865983
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||arnaques-internet.info^"
+    },
+    "priority": 2000,
+    "id": 865984
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||atk-exotics.com^"
+    },
+    "priority": 2000,
+    "id": 865985
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||atkebony.com^"
+    },
+    "priority": 2000,
+    "id": 865986
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||aulaplus.com.br^"
+    },
+    "priority": 2000,
+    "id": 865987
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||babyjav.com^"
+    },
+    "priority": 2000,
+    "id": 865988
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||bigspeeds.com^"
+    },
+    "priority": 2000,
+    "id": 865989
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||btstors.com^"
+    },
+    "priority": 2000,
+    "id": 865990
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||bustrain.net^"
+    },
+    "priority": 2000,
+    "id": 865991
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||centrum-dramy.pl^"
+    },
+    "priority": 2000,
+    "id": 865992
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||chemikino.ru^"
+    },
+    "priority": 2000,
+    "id": 865993
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||cinemafacil.com^"
+    },
+    "priority": 2000,
+    "id": 865994
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||citypaintsupplyghana.com^"
+    },
+    "priority": 2000,
+    "id": 865995
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||clicktabs.net^"
+    },
+    "priority": 2000,
+    "id": 865996
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||clipwatching.com^"
+    },
+    "priority": 2000,
+    "id": 865997
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||coinfaucet.eu^"
+    },
+    "priority": 2000,
+    "id": 865998
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||coinhub.win^"
+    },
+    "priority": 2000,
+    "id": 865999
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||cracklists.com^"
+    },
+    "priority": 2000,
+    "id": 866000
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||crictime.com^"
+    },
+    "priority": 2000,
+    "id": 866001
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||crictime.is^"
+    },
+    "priority": 2000,
+    "id": 866002
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||dekoder.ws^"
+    },
+    "priority": 2000,
+    "id": 866003
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||deltabit.co^"
+    },
+    "priority": 2000,
+    "id": 866004
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||descargas2020.com^"
+    },
+    "priority": 2000,
+    "id": 866005
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||djs.sk^"
+    },
+    "priority": 2000,
+    "id": 866006
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||domnuleprimar.ro^"
+    },
+    "priority": 2000,
+    "id": 866007
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||dragonballzpolo.blogspot.com^"
+    },
+    "priority": 2000,
+    "id": 866008
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||eduardolegatti.blogspot.com^"
+    },
+    "priority": 2000,
+    "id": 866009
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||empirenews.org^"
+    },
+    "priority": 2000,
+    "id": 866010
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||esudog.top^"
+    },
+    "priority": 2000,
+    "id": 866011
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||fileone.tv^"
+    },
+    "priority": 2000,
+    "id": 866012
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmonet.com^"
+    },
+    "priority": 2000,
+    "id": 866013
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmovix.com^"
+    },
+    "priority": 2000,
+    "id": 866014
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmovix.net^"
+    },
+    "priority": 2000,
+    "id": 866015
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmovix.org^"
+    },
+    "priority": 2000,
+    "id": 866016
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmstreamvk.me^"
+    },
+    "priority": 2000,
+    "id": 866017
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmstreamvk.net^"
+    },
+    "priority": 2000,
+    "id": 866018
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmstreamvk.org^"
+    },
+    "priority": 2000,
+    "id": 866019
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmstreamvk.site^"
+    },
+    "priority": 2000,
+    "id": 866020
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||filmyhd.cz^"
+    },
+    "priority": 2000,
+    "id": 866021
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||firstone.tv^"
+    },
+    "priority": 2000,
+    "id": 866022
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||firstonetv.eu^"
+    },
+    "priority": 2000,
+    "id": 866023
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||firstonetv.live^"
+    },
+    "priority": 2000,
+    "id": 866024
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||fruithosts.net^"
+    },
+    "priority": 2000,
+    "id": 866025
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||funtik.tv^"
+    },
+    "priority": 2000,
+    "id": 866026
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||genashowalter.com^"
+    },
+    "priority": 2000,
+    "id": 866027
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||hdvid.tv^"
+    },
+    "priority": 2000,
+    "id": 866028
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||ianimes.co^"
+    },
+    "priority": 2000,
+    "id": 866029
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||inside-out.xyz^"
+    },
+    "priority": 2000,
+    "id": 866030
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||javdl.co^"
+    },
+    "priority": 2000,
+    "id": 866031
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||jkanime.net^"
+    },
+    "priority": 2000,
+    "id": 866032
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||jpdress.com^"
+    },
+    "priority": 2000,
+    "id": 866033
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||kickass.cd^"
+    },
+    "priority": 2000,
+    "id": 866034
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||kinohabr.net^"
+    },
+    "priority": 2000,
+    "id": 866035
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||kinokongo.cc^"
+    },
+    "priority": 2000,
+    "id": 866036
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||kinoprofi.org^"
+    },
+    "priority": 2000,
+    "id": 866037
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||kinosha.cc^"
+    },
+    "priority": 2000,
+    "id": 866038
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||lafmacun.net^"
+    },
+    "priority": 2000,
+    "id": 866039
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||leitor.net^"
+    },
+    "priority": 2000,
+    "id": 866040
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||lewd.ninja^"
+    },
+    "priority": 2000,
+    "id": 866041
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||love-drama.pl^"
+    },
+    "priority": 2000,
+    "id": 866042
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||mladipodnikatelia.sk^"
+    },
+    "priority": 2000,
+    "id": 866043
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||movie4k.is^"
+    },
+    "priority": 2000,
+    "id": 866044
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||mozakrah.com^"
+    },
+    "priority": 2000,
+    "id": 866045
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||mrunlock.icu^"
+    },
+    "priority": 2000,
+    "id": 866046
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||myfeed4u.net^"
+    },
+    "priority": 2000,
+    "id": 866047
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||nahnoji.cz^"
+    },
+    "priority": 2000,
+    "id": 866048
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||netiap.com^"
+    },
+    "priority": 2000,
+    "id": 866049
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||neurozinzin.com^"
+    },
+    "priority": 2000,
+    "id": 866050
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||novator.az^"
+    },
+    "priority": 2000,
+    "id": 866051
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||novoscrb.ru^"
+    },
+    "priority": 2000,
+    "id": 866052
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||onlinevideoconverter.com^"
+    },
+    "priority": 2000,
+    "id": 866053
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||openload.cc^"
+    },
+    "priority": 2000,
+    "id": 866054
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||pebx.pl^"
+    },
+    "priority": 2000,
+    "id": 866055
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||peliculas24.me^"
+    },
+    "priority": 2000,
+    "id": 866056
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||pelisplus.online^"
+    },
+    "priority": 2000,
+    "id": 866057
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||pezeshk.us^"
+    },
+    "priority": 2000,
+    "id": 866058
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||potomy.ru^"
+    },
+    "priority": 2000,
+    "id": 866059
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||powvideo.cc^"
+    },
+    "priority": 2000,
+    "id": 866060
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||powvideo.net^"
+    },
+    "priority": 2000,
+    "id": 866061
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||protect-iframe.com^"
+    },
+    "priority": 2000,
+    "id": 866062
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||protect-link.biz^"
+    },
+    "priority": 2000,
+    "id": 866063
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||rapidvideo.com^"
+    },
+    "priority": 2000,
+    "id": 866064
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||reactor.cc^"
+    },
+    "priority": 2000,
+    "id": 866065
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||rednubes.de^"
+    },
+    "priority": 2000,
+    "id": 866066
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||rahunas.org^"
+    },
+    "priority": 2000,
+    "id": 866067
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||salon.com^"
+    },
+    "priority": 2000,
+    "id": 866068
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||seriesenlinea.net^"
+    },
+    "priority": 2000,
+    "id": 866069
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||severita-service.ru^"
+    },
+    "priority": 2000,
+    "id": 866070
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||sherlockonline.ru^"
+    },
+    "priority": 2000,
+    "id": 866071
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||shrink-service.it^"
+    },
+    "priority": 2000,
+    "id": 866072
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||shush.se^"
+    },
+    "priority": 2000,
+    "id": 866073
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||sickrage.ca^"
+    },
+    "priority": 2000,
+    "id": 866074
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||sleeptimer.org^"
+    },
+    "priority": 2000,
+    "id": 866075
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||sorteosrd.com^"
+    },
+    "priority": 2000,
+    "id": 866076
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||studio100.it^"
+    },
+    "priority": 2000,
+    "id": 866077
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||tapemovie.com^"
+    },
+    "priority": 2000,
+    "id": 866078
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||tarntercum.ru^"
+    },
+    "priority": 2000,
+    "id": 866079
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||theappguruz.com^"
+    },
+    "priority": 2000,
+    "id": 866080
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||tomadivx.tv^"
+    },
+    "priority": 2000,
+    "id": 866081
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||torrentrapid.com^"
+    },
+    "priority": 2000,
+    "id": 866082
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||tubetitties.com^"
+    },
+    "priority": 2000,
+    "id": 866083
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||tugaanimado.net^"
+    },
+    "priority": 2000,
+    "id": 866084
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||uptobox.com^"
+    },
+    "priority": 2000,
+    "id": 866085
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||uptobox.fr^"
+    },
+    "priority": 2000,
+    "id": 866086
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||uptobox.link^"
+    },
+    "priority": 2000,
+    "id": 866087
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||uptostream.com^"
+    },
+    "priority": 2000,
+    "id": 866088
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||uptostream.fr^"
+    },
+    "priority": 2000,
+    "id": 866089
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||uptostream.link^"
+    },
+    "priority": 2000,
+    "id": 866090
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||uptostream.eu^"
+    },
+    "priority": 2000,
+    "id": 866091
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||vidfile.net^"
+    },
+    "priority": 2000,
+    "id": 866092
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||vidoza.co^"
+    },
+    "priority": 2000,
+    "id": 866093
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||vidoza.net^"
+    },
+    "priority": 2000,
+    "id": 866094
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||vidtudu.com^"
+    },
+    "priority": 2000,
+    "id": 866095
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||vidup.me^"
+    },
+    "priority": 2000,
+    "id": 866096
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||void.cat^"
+    },
+    "priority": 2000,
+    "id": 866097
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||voirfilms.mx^"
+    },
+    "priority": 2000,
+    "id": 866098
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||wallpoper.com^"
+    },
+    "priority": 2000,
+    "id": 866099
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||wearesaudis.net^"
+    },
+    "priority": 2000,
+    "id": 866100
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||yourjav.com^"
+    },
+    "priority": 2000,
+    "id": 866101
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||zona.plus^"
+    },
+    "priority": 2000,
+    "id": 866102
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||kickass.cd^"
+    },
+    "priority": 2000,
+    "id": 866103
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||myfeed4u.net^"
+    },
+    "priority": 2000,
+    "id": 866104
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||vidoza.co^"
+    },
+    "priority": 2000,
+    "id": 866105
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||vidoza.net^"
+    },
+    "priority": 2000,
+    "id": 866106
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||vidup.me^"
+    },
+    "priority": 2000,
+    "id": 866107
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||dekoder.ws^*?proxy=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866108
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cryptobara.com/client/worker.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866109
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nahnoji.cz^",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866110
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||js.nahnoji.cz^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866111
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mine.nahnoji.cz^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866112
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hive.tubetitties.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866113
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||miner.nablabee.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866114
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||shrink-service.it/js/cm.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866115
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ddns.net^*=ws://",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866116
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ddns.net^*=wss://",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866117
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||myeffect.net^*=ws://",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866118
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||myeffect.net^*=wss://",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866119
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sleeptimer.org/playerc.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866120
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||kinokongo.cc^*.php",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866121
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||directprimal.com^",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866122
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cinemafacil.com/js.php",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866123
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn1.pebx.pl^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866124
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||wallpoper.com^*/c.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866125
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||shush.se/loader/load.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866126
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||uptostream.*/assets/",
+      "resourceTypes": [
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866127
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||pirateproxy.mx^"
+    },
+    "priority": 2000,
+    "id": 866128
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||thepiratebay.by^"
+    },
+    "priority": 2000,
+    "id": 866129
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||thepiratebay.org^"
+    },
+    "priority": 2000,
+    "id": 866130
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||thepiratebay.rocks^"
+    },
+    "priority": 2000,
+    "id": 866131
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||thepiratebay10.org^"
+    },
+    "priority": 2000,
+    "id": 866132
+  },
+  {
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Security-Policy",
+          "operation": "append",
+          "value": "child-src 'none'; frame-src *; worker-src 'none'"
+        }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "urlFilter": "||unblocktheship.org^"
+    },
+    "priority": 2000,
+    "id": 866133
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false,
+      "domains": [
+        "pirateproxy.mx",
+        "thepiratebay.by",
+        "thepiratebay.org",
+        "thepiratebay.rocks",
+        "thepiratebay10.org",
+        "unblocktheship.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866134
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pool.supportxmr.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866135
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||grf.easyhash.io^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866136
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||minexmr.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 866137
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||api.nyda.pro^",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 866138
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||ws.webcaster.pro^",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 866139
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||broadcastt.xyz/apps/",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 866140
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||lags.win/ctf",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 866141
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||siteapi.idkfa.online/v2/units/socket/websocket?",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 866142
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||live.api.stream^",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 866143
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||quiknode.pro^",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 866144
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||aptal.pro^",
+      "resourceTypes": [
+        "websocket"
+      ],
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 866145
+  }
+]

@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<!--
+  - This file is part of SmartProxy <https://github.com/salarcode/SmartProxy>,
+  - Copyright (C) 2022 Salar Khalilzadeh <salar2k@gmail.com>
+  -
+  - SmartProxy is free software: you can redistribute it and/or modify
+  - it under the terms of the GNU General Public License version 3 as
+  - published by the Free Software Foundation.
+  -
+  - SmartProxy is distributed in the hope that it will be useful,
+  - but WITHOUT ANY WARRANTY; without even the implied warranty of
+  - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  - GNU General Public License for more details.
+  -
+  - You should have received a copy of the GNU General Public License
+  - along with SmartProxy.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+  <html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title data-localize="proxyableTitle">Proxyable Resources</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet" />
+	<link href="css/font-awesome.min.css" rel="stylesheet" />
+	<link href="css/common.css" rel="stylesheet" />
+	<link href="css/datatables.min.css" rel="stylesheet" />
+	<link href="css/noty.css" rel="stylesheet" />
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/datatables.min.js"></script>
+	<script src="js/noty.min.js"></script>
+	<script src="js/messageBox.js"></script>
+	<script src="code/proxyable.js"></script>
+</head>
+<body>
+	<div class="container p-2 pt-3">
+		<h2 data-localize="proxyableHeader">Proxyable items on this page</h2>
+		<p>
+			<span data-localize="proxyableHeaderDesc">
+				Here is the list of resources that are used or invoked from this page. Use this list to add these resources to the proxy activation rules.
+				<br />
+				If you don't see anything here, reload the page to see the resources.
+			</span>
+			<button id="btnReload" class="btn btn-info btn-sm">
+				<i class="fa fa-refresh" aria-hidden="true"></i>
+				<span data-localize="proxyableReload">Reload</span>
+			</button>
+		</p>
+		<p>
+			<input id="txtPageUrl" type="text" readonly style="width: 100%" class="disabled form-control" />
+		</p>
+		<div class="row">
+			<div class="col">
+				<table id="grdProxyable" class="table table-striped table-bordered table-hover"></table>
+			</div>
+		</div>
+		<br />
+
+		<div class="float-start">
+			<button id="btnClose" class="btn btn-danger">
+				<i class="fa fa-times" aria-hidden="true"></i>
+				<span data-localize="proxyableClose">Close</span>
+			</button>
+		</div>
+		<div class="float-end">
+			<!-- <button id="btnBenchmark" class="btn btn-outline-info">
+				<i class="fas fa-stopwatch" aria-hidden="true"></i>
+			</button> -->
+			<button id="btnClear" class="btn btn-outline-danger">
+				<i class="fas fa-trash" aria-hidden="true"></i>
+			</button>
+		</div>
+	</div>
+</body>
+</html>

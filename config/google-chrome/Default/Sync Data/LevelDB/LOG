@@ -1,0 +1,9 @@
+2024/08/13-18:18:42.153 8a79 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/08/13-18:18:42.154 8a79 Recovering log #29
+2024/08/13-18:18:42.154 8a79 Reusing old log /home/unixelf/.config/google-chrome/Default/Sync Data/LevelDB/000029.log 
+2024/08/13-20:35:54.828 8a81 Level-0 table #33: started
+2024/08/13-20:35:54.832 8a81 Level-0 table #33: 101837 bytes OK
+2024/08/13-20:35:54.835 8a81 Delete type=0 #29
+2024/08/14-02:23:24.121 8a84 Level-0 table #35: started
+2024/08/14-02:23:24.125 8a84 Level-0 table #35: 111250 bytes OK
+2024/08/14-02:23:24.128 8a84 Delete type=0 #32

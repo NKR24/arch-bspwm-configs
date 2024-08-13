@@ -1,0 +1,232 @@
+{
+   "checksum": "8a07e4106cc7ba60143005c5ab015a8a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13277560200104620",
+            "date_last_used": "0",
+            "guid": "c23d8a50-47ed-4f79-8bff-a411b164a6ee",
+            "id": "5",
+            "name": "Особые благодарности | Discord",
+            "type": "url",
+            "url": "https://discord.com/acknowledgements"
+         }, {
+            "date_added": "13345340441391374",
+            "date_last_used": "13368036073932393",
+            "guid": "61dc10b2-73a4-49c3-b62a-fe8366870dcb",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13345340441390931",
+            "date_last_used": "13343441503694539",
+            "guid": "cf80fb96-b596-4655-ad6d-4f6a6c369988",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13323741117641430",
+            "date_last_used": "13346793285694650",
+            "guid": "57d335f7-9ece-49e6-9ca6-ad49aea0f077",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "India PPTP VPN Account | Listvpn.net",
+            "type": "url",
+            "url": "https://www.listvpn.net/create-account-vpn-pptp-india"
+         }, {
+            "children": [ {
+               "date_added": "13327079087192040",
+               "date_last_used": "0",
+               "guid": "e20eda01-fb14-4d2d-aa5a-2d17cd431718",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "HUF - Брюки чино GILMAN DOUBLE KNEE PANT – KIXBOX GARAGE SALE",
+               "type": "url",
+               "url": "https://garage.kixbox.ru/products/huf-gilman_double_knee_pant-pt00207-black-black?_pos=12&_fid=34726a1f9&_ss=c&variant=44830193680697"
+            }, {
+               "date_added": "13327079224484108",
+               "date_last_used": "0",
+               "guid": "d9fe5c5b-7d6e-49c0-bd0d-e51fbe9cd460",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GRAMICCI - Жилет REVERSIBLE VEST – KIXBOX GARAGE SALE",
+               "type": "url",
+               "url": "https://garage.kixbox.ru/products/gramicci-reversible_vest-g2fu-j041-grey?_pos=38&_fid=eea9b1d1c&_ss=c&variant=44830336090425"
+            }, {
+               "date_added": "13328627845896255",
+               "date_last_used": "0",
+               "guid": "5e414a44-74ac-4016-93a4-3c5bebe77c3e",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Вычмат - Google Таблицы",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1NjJqWZ_3uQBhse-BDCohvR-mhfynABi0hbui-9g8Sjc/edit#gid=0"
+            }, {
+               "date_added": "13338460307331148",
+               "date_last_used": "0",
+               "guid": "a3ccf071-77bf-4308-ba61-9c3696585e45",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hola VPN - The Website Unblocker - Интернет-магазин Chrome",
+               "type": "url",
+               "url": "https://chrome.google.com/webstore/detail/hola-vpn-the-website-unbl/gkojfkhlekighikafcpjkiklfbnlmeio/related?utm_source=ext_sidebar&hl=ru"
+            } ],
+            "date_added": "13327079101436026",
+            "date_last_used": "0",
+            "date_modified": "13338460307331148",
+            "guid": "0ffc5276-3acc-4b16-895f-dde723eef332",
+            "id": "9",
+            "name": "SALE",
+            "type": "folder"
+         } ],
+         "date_added": "13367976872558065",
+         "date_last_used": "0",
+         "date_modified": "13345340441391374",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13340121620536920",
+            "date_last_used": "0",
+            "guid": "944faa3d-94ed-433c-a756-cc23dcc53d42",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Introduction • Docs • SvelteKit",
+            "type": "url",
+            "url": "https://kit.svelte.dev/docs/introduction"
+         }, {
+            "date_added": "13346426621098753",
+            "date_last_used": "0",
+            "guid": "556bddd8-6c08-4b37-8f1d-3a68b5e2a6e5",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Telegram Web",
+            "type": "url",
+            "url": "https://web.telegram.org/k/#@fierycasket"
+         }, {
+            "date_added": "13351716110704481",
+            "date_last_used": "0",
+            "guid": "a68a06fb-f8a3-4f31-a41c-63f426dbd406",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Загрузите Battle.net | Battle.net",
+            "type": "url",
+            "url": "https://download.battle.net/ru-ru/?product=bnetdesk"
+         }, {
+            "date_added": "13354140331584670",
+            "date_last_used": "0",
+            "guid": "0e084948-923b-4fe2-90ca-19cb7514635d",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Roblox",
+            "type": "url",
+            "url": "https://www.roblox.com/request-error?id=679d0cf5-8faf-4525-9c6c-4a99fad29e58&mode=&code=&isWebsite=true"
+         }, {
+            "date_added": "13355180374695735",
+            "date_last_used": "0",
+            "guid": "6a1bad0b-5743-4d67-b806-8bd1529faa35",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "METANIT.COM - Сайт о программировании",
+            "type": "url",
+            "url": "https://metanit.com/"
+         }, {
+            "date_added": "13359596988497007",
+            "date_last_used": "0",
+            "guid": "aefe8104-11ee-46fa-8d83-64eed50d6a37",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SQL ACADEMY ответы и решения заданий (часть 1, задания 1-22) - Ответы на олимпиады Учи.ру",
+            "type": "url",
+            "url": "https://zavriki.com/sql-academy-otvety-i-reshenie-zadanij/"
+         }, {
+            "date_added": "13364763159684375",
+            "date_last_used": "0",
+            "guid": "40c0bfe5-f0d4-42b7-acc8-899abfd1860a",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13367976872558067",
+         "date_last_used": "0",
+         "date_modified": "13364763159684375",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13236954162828281",
+            "date_last_used": "0",
+            "guid": "492d1582-0df2-4572-8f77-da83d7860f6c",
+            "id": "14",
+            "name": "ЛЕГИОН: записи - Google Диск",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1W1TCRg3UdmoFfjZT8R_vYRV00ZhyAHpaQinSAyxqg5E/htmlview?usp=sharing&pru=AAABcutAWqQ*bf7d1G6Hu8bo2aNESD7G-Q#"
+         }, {
+            "date_added": "13247570890036312",
+            "date_last_used": "0",
+            "guid": "9f90c62c-f0cc-4918-aea5-6bdc41f4dc26",
+            "id": "15",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=460&clid=2413675-312&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13247570890036322",
+            "date_last_used": "0",
+            "guid": "67c22b4a-c3f4-4322-9905-1c952f8f2b5f",
+            "id": "16",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=460&clid=2413675-312&from=dist_bookmark"
+         } ],
+         "date_added": "13367976872558069",
+         "date_last_used": "0",
+         "date_modified": "13247570890036322",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCR0DLyGSHwYAER0DLyGSHwYAKZeoLyGSHwYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgNaoG5IfBgARgNaoG5IfBgApqYsvIZIfBgAwgK2j3aHyhwMSACoYUnFwKzk4VklIeVVaYjJMcGFMVHh6Zz09SAMS7AEIBRLnAQocVytkY0oyREsrWWpXcktKS1ljQ2kvQ0U0dURnPRJmWjpBRHF0QVp5dXBYcUQ3TEdGckRIVlpYVWFPTnFCMmYyVFIyZWpYR3RZQXEwbGJxL3pSSk5FL0ZkMGtTdUVYYmVtR1RpSFdBWUwzTjR1WTlRLzlVcEc4TER3d1BuZFNUYklQUT09GAAgACgAMIP6yZfr8YUDOKnnr9zDL0Cp56/cwy9KHGErSUp4KzdrSlF0NWR5d0hBaEJJWVdSZkhSYz1aHyId/W9ZbkVBcDdTOVJwc0xGa1dzMjVhRkNiRDhUWT1l7CHKxBLtAQgGEugBChx2NS9ERmlBMGRDTVBhbXA2eXpVcy91c1d1MEE9EmZaOkFEcXRBWnl1cFhxRDdMR0ZyREhWWlhVYU9OcUJsS2xYRE5BbG1oZ1dFaVJJS01vTklCUXhxQ2oxYnV4am9xUG5HQWlNK29qc0hzOUY0aklHT3NnTGVKUm8zc1I2OGczZWpnPT0YACAAKAAwjM+Mut/vhwM48sTzlsUwQPLE85bFMEocNHBBZ1dYemhuR3d4QUxod2JRSjk5dkhsa0kwPVogIh7//3g3Q3p2Rm13Ym1ySmh5c1U0MWVQbEYyWjlBbz1lOPk5MxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWndTclVpeTNyWGpKRk5qL3dKUm45V0Z4RGF6L2tMTkVITktwek1QbnBxUkwwd3haSnFzR0ZVbEVZWUg3b29UWHBBaWdQdElnVm1TNDUyT0s3NVM1bE81ZU5XTDBBPT0YACAAKAAwpZDRm8bwhwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWng4c3dWNHhza3hPUStqeVlYNHVBUnJRWXRhREdlSnJoWXJ2eFQzNVJkSExhRkdhb1AyRjNxR05VQm1BWkZNVkZpQTN1cHMYACAAKAAwpZDRm8bwhwM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLtAQgHEugBChxmQkhWOEdmeFJaTUhDaVhENkFGUUkxS2prRlU9EmZaOkFEcXRBWnl1cFhxRDdMR0ZyREhWWlhVYU9OcUJPV2hFRC80WFdTc3lQaDY0ek44amhHZDBWMm1aMkQxeHU5ditWVkVqTkRWK2tmOWUzMXJHMERLd3RtVVJkQlMwUG90NVN3PT0YACAAKAAwg/rJl+vxhQM48sTzlsUwQPLE85bFMEocYjhDZGJCK1JpTmtiZjQrc3lMQ0hIS1Q2QzhnPVogIh7//3hiYm5qTmlad003WnVlYWxQRHBuVC82M0JKST1lEDD/5BKsAggOEqcCChwzaWhTeFB4L3ZtamVXZnV1bUY2WU4rb0hNdTQ9EqYBWjpBRHF0QVp5b2pvUmcrT3N1NC8yTHl4bjFQcHNJMTNXK0s0MGdRa2pCV3ZKNFN6TmlaK1RzOVJGVTVRb3NqdjlzUDRJRG9DNnJkNWdhQjRIaFNVSVhRa3A4RnNyVGJ5a0c2ems1S1NkZW9TaEFhSFVpck5LMmhBTkZTVEgxNS9aOFd5TGQ1T2NPZ2dxcFlHL1ZLQllyWXdyMEk0eXhBUk9TQ0E9PRgAIAAoADD/06rZtNH0Ajid/fO5rC5Anf3zuawuShxXbi9KSktoRGRTZzdaTWFMYnZPS2czSldXd1k9Wh4iHGxwRTd2R0IxZXRtOU9tSmZSbUx1VDlJclNpWT1loGbb6BLsAQgVEucBChxUOGdYYWVlT1d3bkgrWklGUEF2Vyt4b244YUU9EmZaOkFEcXRBWnl1cFhxRDdMR0ZyREhWWlhVYU9OcUJTUWFVNGdsRmp2UkgyZEl2ZUwyY0FUSEVQU2IxVENpWVdhY0pidlR4MERZUFJDYkx6MUs1Z2tCbnJTR25uQWZxT08xaktnPT0YACAAKAAw1c3yrY/8hAM4p6XH8OQxQKelx/DkMUoceWp1Y3ZoeEhOWjA1Uk9lcGhMN0tmYjBIYUlRPVofIh31amRDWUplZTlOSTlxR0drZWVOeHo3WCtJKy9BPWXHpEbVEu4BCAgS6QEKHCt2QTBFMkpLWU5DYVY2RisvM1lwNjlFSFJGYz0SZlo6QURxdEFaeXVwWHFEN0xHRnJESFZaWFVhT05xQmJLaXZoSTJYQXQ4WjEraUNIbkp4NDRLVXhOSmUxYk9Kb3FyM1NZVzdrMUl4S08va3BTR3NTUHk3VjhxSklyTitWUlo1bmc9PRgAIAAoADCD+smX6/GFAzjJqZPh7zBAyamT4e8wShxNUG5SYnNiZjFXUlVyYmczQ2QxU2FGVFEzV2s9WiEiH///+1N4RmxXMmpzbjVoTWt1bnRHRmRtZnZhem0zZz1lXZnF5BLsAQgLEucBChxicWtkZlFaaGkyTCtOaVh3V08ydEY2RVU0YjA9EmZaOkFEcXRBWnl1cFhxRDdMR0ZyREhWWlhVYU9OcUJGMXhMU2VLcTZBS0dlTFVwWmlqRGREOXFvMWVvai9vQ01SUTJ3cERDRml1UnVVZlAwVjNVUXdIdHBjdktRL0JoQ2JSdSt3PT0YACAAKAAw+YL+taLK/gI4pJnxmPwwQKSZ8Zj8MEocWGd4UTlTUmNLQXN1aWpSOUd1VWIvdzFBYmh3PVofIh25WEx1a0dPVkYzRitRc0MvWWVrM1JOZFF1aE5vPWUAAAAAEq0CCA8SqAIKHEdUeURHMllHN2Z4M1dZMm11a3RSRmZvejVTVT0SpgFaOkFEcXRBWnlvam9SZytPc3U0LzJMeXhuMVBwc0krTFh0cjdkcDJwS2s3bDhpalMrSGxxMnMyVi9wTTdyZEwyN0hFR2JVQkZwL0R6R0xwVk52VjFUVzhoMzVYNG9FbWs3aFZRU08wWE9rZ2tsSlRiMmJlMWVsNlgrNE1Td0tsUnhCSDNkZ2twZU1vU2FKTjg5OHU1K3JQeFoxOXh6VG5SNTQzZz09GAAgACgAMP/Tqtm00fQCON+E7aHWLkDfhO2h1i5KHER0Zms2NmQ5SUlqejZMSjVEY0dnY2p2WGJFRT1aHyIdtk1UaXdpVHNIUHcwQWF4VXVVZFRMODIvYVQxdz1lAAAAABLuAQgJEukBChxsOU9NZ2QyTCtMdkhpUjdZajlmeG9YT2x6Wjg9EmZaOkFEcXRBWnl1cFhxRDdMR0ZyREhWWlhVYU9OcUJDK0hUSWlWMHhWYWxEZ04yL0VSdXUycDEvcVVpQkNabS9DK0cyZXpWbDlzMkFobUxUQXJkdFhreUhsd2c0aVhQY0RsUEtnPT0YACAAKAAwrPyf+6HK/gI4/dfpmPwwQP3X6Zj8MEocUEozU1gvd2dLRHppRzRrR0tkWlJ5OGVyMnFvPVohIh////5jUXNubW5GVCtldHNwd29rZ2dYZWdpTjU3dE09ZQAAAAASrQIIEBKoAgocTThldEwybnhKaFlmK2JUMUpFcGVGZ1ZKTkhzPRKmAVo6QURxdEFaeW9qb1JnK09zdTQvMkx5eG4xUHBzSStMWHRyN2RwMnBLazdsOGlqUytIbGpyRSsvc2pPQUFEQ2ZualhnMVRQR1daNDhTYVRBdUNXbytmYzhSbG5FQ0ZqY25VckRyenJjWXpHYnVCTndHVmt5L2ZsVzZnWTRSSnkySks0ME93cTVFbmIrODZVZGRjZDY0R0Mwam1ZbDNUYlkzQjhnPT0YACAAKAAw/9Oq2bTR9AI434TtodYuQN+E7aHWLkocbGVOTGhNMjVwNFYvQW9GaTdrSWtxMlFjY2ZRPVofIh3bS0EwSzkvWE5KOXRwUHF1TW1PT2MrVU5oQjIwPWUAAAAAEuwBCA0S5wEKHFZCQzF6QjBpQW1FcTdxTmc3eFBnTHpYdTYybz0SZlo6QURxdEFaeXVwWHFEN0xHRnJESFZaWFVhT05xQmJWMUkwSm15dC94RkNxc3VJTHpudlkrcnBGbmF6TUpUTDd2NnR5QjU2NFRiZlpwb1ZIK0wxWk1DMVQ5WDJPWkpNMkJ1VWc9PRgAIAAoADCcxNugwJWBAziDr+fLpjFAg6/ny6YxShxVVHJjcy9sMlNGbC9oRkxVOHA3MFdIUnhNN289Wh8iHe5xUXlSMFV4YUV1VkFtTTZJdE80Q1BjaWl1OGs9ZQAfR1sS6wEIChLmAQocZFd3VjhjTlpvTjl4TG90MzhPelBWRWY2cHdrPRJmWjpBRHF0QVp5dXBYcUQ3TEdGckRIVlpYVWFPTnFCZEJRcVh6T01RbGMrNnAvQjFzZkdqYmwzb1lHR3EzOE9KTzlxcyswVlFZdGRISlhYeTR4ajdLb0VWU3gyeUxzQklvd3NNQT09GAAgACgAMKz8n/uhyv4CONro6Jj8MEDa6OiY/DBKHElwSzFMMXRXMUc0RVFVR2lYZExaL1JzdGhQMD1aHiIcc3hpcFIrV3hTMUFNcmRhZ21Ld0VnYVkwZFhzPWUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeXgxU2tMQ1phNkZxQTR1ZW14UlJkV201dW5JTXB2RWN4OVEzU3VkdWpZMzRkRWVmTFlSNm9lblE4TGdHQXBFSkZKT295cDhjR2s0T3dKcitlZ2pHM0Nsbmpmbnc9PRgAIAAoADClkNGbxvCHAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCAwS5wEKHFoxQU9JeXFrZVJnRlVvcGZKOXlGWnd2MWlQUT0SZlo6QURxdEFaeXVwWHFEN0xHRnJESFZaWFVhT05xQmZpRzliTmFXZWxsK2dueWk1cjV0S3RTdGIxZUE3TlE3RzEyRGw3QlQ1eG1jOGlSaDBKTjU0dUFTNHlXSERlZDQ3cndBYnc9PRgAIAAoADDA9re9q/f+AjiIxqn7gTFAiMap+4ExShxURlFKdXZYTjg2c3RuVCs1SE10aXlscEo1ZG89Wh8iHdx3YWg5T0thaHBSekE0cjRUSU0xQ1UzdnlSOFk9ZaBm2+gS7AEIEhLnAQocU0o0ODhDQ1MyYnpGL3hHdURxbnk2T29tY0dzPRJmWjpBRHF0QVp5dXBYcUQ3TEdGckRIVlpYVWFPTnFCVHp2Q3BKTHN4ck1mak5YdGpnbWxFWERWZm5qWVBTV2ZCSkJOd0loZDIvM1NaMThkOGFVWkdBU0prWWt4KzFoNm42N0h1Zz09GAAgACgAMJTzg9ev6ocDOKrJuKLEMUCqybiixDFKHEhST3AzMGFZbEJsOVRCOFFrUTVmMHdSZEs3cz1aHyIdqzlaMkQwN3RzOHdyZENzUm5sMjdCR2prVlBUVT1lxF5HVRLsAQgWEucBChw3QWsvSHF4V3FmWHE5eVRESUNqVDROcyttR3M9EmZaOkFEcXRBWnl1cFhxRDdMR0ZyREhWWlhVYU9OcUJJYkk1Um5mYmlmU25sVi9XWWltbWpqS1VLYlEyMlVvZEpnZ2VpdXBBQmduSDN3YW1kZU9lUExoTGFSUWhWMVpYZmVDdGFBPT0YACAAKAAwlL3Aw9T8hQM40YDIqvUxQNGAyKr1MUoccDE4bTROOE8yWDhvTHowU3BtQ3QvWTVIa08wPVofIh36d0xGamlvWktMRnM4KzVTNUFMSWE2YUlEVGdJPWUXgQYDEuwBCBMS5wEKHGdrQW1iV0JzV1VyYWtOQnQzVmpzZG1BVTBsWT0SZlo6QURxdEFaeXVwWHFEN0xHRnJESFZaWFVhT05xQjltWEEzdnNVdzVqbUJnNVk2dXZWSm1SSzhxVlNxdDN0SWFqNjBaTmMvY2NtQkNIREkrOEU5MW1qcWh0WWdjVnNKR1FOb3c9PRgAIAAoADCdmY38pZeEAzjwstX81zFA8LLV/NcxShxmSisySVBsbkJuSjlqd0ZIOEsrM1ZXUFNDTnc9Wh8iHdU3WElsMnVZV0hXUTgvbG96cmphTVdiZGZkRlk9ZTPzkKwS7AEIFxLnAQocU3o3dk9jemE2MGxhZFcwcDR6SHR4aVoxR2VBPRJmWjpBRHF0QVp5dXBYcUQ3TEdGckRIVlpYVWFPTnFCNU1kWWJrVXRzdUdxdHRLdXhUd0N3MVFjM2NnT29xRTNZRHAzakRvbWpUaXVtdG1HN2M2VnRhQnQ1WHVuQldXeEhEUW5JQT09GAAgACgAMIzPjLrf74cDOISJ/smIMkCEif7JiDJKHExNbER4dXZOSWVtMXZ0Z3ZOUUtvci9oSzgwVT1aHyId/ThWSFdISUEzT2NhbFducHlvaXp4TU1GODhKaz1lOPk5MxLsAQgUEucBChxMdnM3bVBkRzFPTkRNcTR2TmV6aVMxSlV2Yjg9EmZaOkFEcXRBWnl1cFhxRDdMR0ZyREhWWlhVYU9OcUJ0QVVXT1I0aTg4V0JKRzhmTThRQkphNmRQRmlzczR6dTlYYytHWkhSeDFleWhXWnYvWWZBdDVWL0xlRmJXcXJWOFg4K2dBPT0YACAAKAAwobO28uzdhAM4wIzQgOExQMCM0IDhMUocdjkwWU9JblZ6YmJXSTFsbmJmRjF1ZDdOdy9NPVofIh3qUHdDV1RxMTdnR1RmV1g5K1pZTVhMTUEvUG44PWXzVZdZEusBCBES5gEKHEFzVGdUamh4NFFlcVNnRGdvejZLWHZDd0Z0Zz0SZlo6QURxdEFaeXVwWHFEN0xHRnJESFZaWFVhT05xQm5rdkcwRDVwdWtyRXJObGl1UmRlWmwvY01RYzVvYjMwTnovQ0g4R3dobWdYSHJkSkc4SUVOb3djOXFNNzBrK1R6VEhzQWc9PRgAIAAoADDgj4P1iMSFAzi58P3jrDFAufD946wxShxDM3RCcmM5NVFRME5aSllPRnJOaXZpcTJXMnM9Wh4iHFY5NFhqN1pKbVZmWU5ocXNZdzRiN29kbDRMQT1l6sHWfTABOAA=",
+   "version": 1
+}

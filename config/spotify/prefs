@@ -1,0 +1,9 @@
+autologin.blob="TWTkOuFXofsbF26pWQGmArCCZBk6T+7NrQqSEfHeiB31U+VIfwMof1nYum1AWXPKPpXstKGQnw/jhqUxlvsaMZZe6KPDRPGQyh09jaxoCv9Afgg6Z9zvWpt2uYF+PAl/7opEJPEXUCryzwcn1p6kZA+87OFN+jcaTDqb7f6zmaFaGyxe1Jo2h1CYEmVYfapSSYw0hVYSe+PHfU7Vccfiv8MewwZ6HMEMiVywHaWxSHIYvFHPHBQB2naI8LapAEDdHwxOWtGjXazeA7u4lZ7J+g/xEaE7eFz+xIUPzMgETNtt8uQ/Z4kkX/tegdrYBMXcTAqiC90CtxnNcd8AB8aijw=="
+autologin.canonical_username="mdkgu6pxitrft95qbcyj6djyn"
+autologin.saved_credentials="{\"mdkgu6pxitrft95qbcyj6djyn\":[\"mdkgu6pxitrft95qbcyj6djyn\",\"TWTkOuFXofsbF26pWQGmArCCZBk6T+7NrQqSEfHeiB31U+VIfwMof1nYum1AWXPKPpXstKGQnw/jhqUxlvsaMZZe6KPDRPGQyh09jaxoCv9Afgg6Z9zvWpt2uYF+PAl/7opEJPEXUCryzwcn1p6kZA+87OFN+jcaTDqb7f6zmaFaGyxe1Jo2h1CYEmVYfapSSYw0hVYSe+PHfU7Vccfiv8MewwZ6HMEMiVywHaWxSHIYvFHPHBQB2naI8LapAEDdHwxOWtGjXazeA7u4lZ7J+g/xEaE7eFz+xIUPzMgETNtt8uQ/Z4kkX/tegdrYBMXcTAqiC90CtxnNcd8AB8aijw==\"]}"
+es.send-on-startup=true
+core.clock_delta=1
+autologin.username="mdkgu6pxitrft95qbcyj6djyn"
+app.enable-chrome-runtime=true
+storage.last-location="/home/unixelf/.cache/spotify/Storage"
+app.last-launched-version="1.2.42.290.g242057a2"
