@@ -41,7 +41,7 @@ sudo pacman -Syy
 
 #Список пакетов
 PACKAGES="sxhkd bspwm tumbler ffmpegthumbnailer lsd alacritty bat brightnessctl calc \
-    automake blueman bluez bluez-utils dunst fakeroot feh firefox \
+    automake blueman bluez bluez-utils dunst fakeroot feh \
     dpkg gcc gedit git gnu-netcat htop btop nano lxappearance \
     mat2 mpd mpv thunar ncmpcpp neofetch network-manager-applet nitrogen \
     pamixer papirus-icon-theme pavucontrol polybar autoconf mpc pulseaudio \
@@ -81,8 +81,6 @@ cd /tmp/yay && makepkg -si
 echo Устанавливаю yay пакеты...
 yay -S $AUR_PACKAGES
 
-#sh $script_dir/firefox/install.sh
-
 #Ставим i3lock-color
 echo Ставлю i3lock-color...
 git clone https://github.com/Raymo111/i3lock-color.git
@@ -110,16 +108,19 @@ cp -r $script_dir/bin/ ~/
 sudo chmod -R 700 ~/.config/*
 sudo chmod -R +x ~/bin/*
 
-#Установка оболочки zim
-curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
-
-#Замена дефолтного конфига zsh на собственный
-rm -rf ~/.zshrc
-cp $script_dir/.zshrc ~/.zshrc
-
 sudo systemctl enable iwd.service
 sudo systemctl enable dhcpcd
 sudo systemctl enable NetworkManager
 sudo systemctl enable bluetooth.service
 sudo systemctl enable lightdm.service
 sudo systemctl start bluetooth.service
+
+#Замена shell на zsh
+chsh -s $(which zsh)
+
+#Установка оболочки zim
+curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+
+#Замена дефолтного конфига zsh на собственный
+rm -rf ~/.zshrc
+cp $script_dir/.zshrc ~/.zshrc
