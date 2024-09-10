@@ -1,0 +1,7 @@
+2024/09/02-01:08:34.006 13781 Creating DB /home/unixelf/.config/Postman/Partitions/0bd1f615-8cbf-466f-bbf4-30e321a5fecc/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2024/09/02-01:08:34.019 13781 Reusing MANIFEST /home/unixelf/.config/Postman/Partitions/0bd1f615-8cbf-466f-bbf4-30e321a5fecc/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/09/02-01:08:34.024 1377f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/02-01:08:34.044 1377f Level-0 table #5: started
+2024/09/02-01:08:34.046 1377f Level-0 table #5: 691 bytes OK
+2024/09/02-01:08:34.049 1377f Delete type=0 #3
+2024/09/02-01:08:34.049 1377f Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,8 @@
+[79738][1725228526363][auth][info]["EventBus~initialize - Success"]
+[79738][1725228527425][auth][info]["Authentication~did-navigate:","https://identity.getpostman.com"]
+[79738][1725228529273][auth][info]["Authentication~did-fail-load: Error with code ",-3,"about://"]
+[79738][1725228529274][auth][warn]["Authentication~did-fail-load: Ignoring error since error code is -3"]
+[79738][1725228530810][auth][info]["Authentication~will-navigate:","https://identity.getpostman.com"]
+[79738][1725228531452][auth][info]["Authentication~onBeforeRedirect:","https://identity.getpostman.com"]
+[79738][1725228531853][auth][info]["Authentication~did-navigate:","https://identity.getpostman.com"]
+[79738][1725228568488][auth][info]["Authentication~will-navigate:","https://erisedstraehruoytubecafruoytonwohsi.chromiumapp.org"]

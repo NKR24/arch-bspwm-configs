@@ -1,0 +1,7 @@
+2024/08/20-00:52:45.159 3c1 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_otvet.mail.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/20-00:52:45.159 3c1 Recovering log #3
+2024/08/20-00:52:45.159 3c1 Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_otvet.mail.ru_0.indexeddb.leveldb/000003.log 
+2024/08/20-00:52:48.836 3c2 Level-0 table #5: started
+2024/08/20-00:52:48.839 3c2 Level-0 table #5: 2696 bytes OK
+2024/08/20-00:52:48.841 3c2 Delete type=0 #3
+2024/08/20-00:52:48.842 3c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,91 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="10" l="1725145480661" />
+    </e>
+    <e n="$Undo">
+      <i c="17" l="1725145862611" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="1" l="1725146638666" />
+    </e>
+    <e n="EditCustomProperties">
+      <i c="1" l="1725146698499" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="43" l="1725146881868" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="16" l="1725146874306" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1725144812149" />
+    </e>
+    <e n="EditorDown">
+      <i c="10" l="1725146806635" />
+    </e>
+    <e n="EditorEnter">
+      <i c="7" l="1725146879134" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1725146811246" />
+    </e>
+    <e n="EditorPaste">
+      <i c="33" l="1725146364633" />
+    </e>
+    <e n="EditorRight">
+      <i c="25" l="1725146871110" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1725146869622" />
+    </e>
+    <e n="GetJoinLinkAction">
+      <i c="1" l="1725146640512" />
+    </e>
+    <e n="SaveAll">
+      <i c="3" l="1725146884168" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="10" l="1725146820582" />
+    </e>
+    <e n="SettingsSyncStatusAction">
+      <i c="2" l="1725146397972" />
+    </e>
+    <e n="ShowSettings">
+      <i c="8" l="1725146562523" />
+    </e>
+    <e n="WelcomeScreen.ManageLicense">
+      <i c="9" l="1725146711249" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1725146164075" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$3">
+      <i c="1" l="1725146838066" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1725146175518" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="2" l="1725146821523" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1725146741772" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1725146383398" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="10" l="1725146701473" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1725146381819" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1725146213053" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1725144680142" />
+    </e>
+  </component>
+</application>

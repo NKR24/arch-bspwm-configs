@@ -1,0 +1,4 @@
+load-module module-udev-detect
+load-module module-native-protocol-unix
+load-module module-equalizer-sink
+load-module module-dbus-protocol

@@ -1,0 +1,209 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="grpc-crud" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2bvdtxp97p66x" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/db/postgres.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="372">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding>
+                <element signature="e#12#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/proto/users.proto">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="93">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/models/user.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="155">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Go": {
+      "usageCount": 8,
+      "lastUsed": 1725974233430
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1725146173905
+    },
+    "protobuf": {
+      "usageCount": 2,
+      "lastUsed": 1725974231574
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/internal/models/user.go" />
+      <option value="$PROJECT_DIR$/proto/users.proto" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="go">
+      <summary usageCount="8" lastUsage="1725974233430" />
+    </language>
+    <language id="protobuf">
+      <summary usageCount="2" lastUsage="1725974231578" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="grpc-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud/internal}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud/internal}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud/internal/db}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud/internal}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud/internal/models}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc-crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/unixelf/Documents/git/grpc-crud/proto}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16604477" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.22754793" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="GitLab Merge Requests" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.16284648" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <unified_weights bottom="0.22754793" left="0.16604477" right="0.16284648" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1725146825358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1725146825358" />
+    <state x="543" y="312" width="824" height="507" key="IDE.errors.dialog" timestamp="1725146633433">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="312" width="824" height="507" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1725146633433" />
+    <state x="469" y="190" key="SettingsEditor" timestamp="1725146575195">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="190" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1725146575195" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/internal/db/postgres.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#12#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/models/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/users.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

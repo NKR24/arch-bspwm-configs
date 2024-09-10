@@ -1,0 +1,6 @@
+2024/08/24-17:48:03.113 4c1 Creating DB /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.codewars.com_0.indexeddb.leveldb since it was missing.
+2024/08/24-17:48:03.116 4c1 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.codewars.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/24-17:48:05.158 4c2 Level-0 table #5: started
+2024/08/24-17:48:05.159 4c2 Level-0 table #5: 4901 bytes OK
+2024/08/24-17:48:05.162 4c2 Delete type=0 #3
+2024/08/24-17:48:05.162 4c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

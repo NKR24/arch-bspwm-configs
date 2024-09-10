@@ -1,0 +1,131 @@
+{
+	"notifications": [
+		{
+			"guid": "8a9225f4-cf54-4f65-afb8-a18254b2478f",
+			"timestamp": 1723931749851,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "You must initialize pass before logging in to Docker Desktop",
+				"icon": "error",
+				"type": "action-result",
+				"operation": "user-log-in",
+				"title": "Unable to log in",
+				"actionText": "Learn how",
+				"action": {
+					"action": "open-credential-store-instructions",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "094c23e6-b50a-488a-9941-74a9881b7695",
+			"timestamp": 1723932000629,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Scout wants to send OS Notifications through Docker Desktop",
+				"icon": "sparkles",
+				"type": "general-purpose",
+				"actionText": "View",
+				"action": {
+					"action": "enable-scout-os-notifications",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "ea8011b8-afcc-4998-8f37-9f19cecfff5f",
+			"timestamp": 1724282812728,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Scout wants to send OS Notifications through Docker Desktop",
+				"icon": "sparkles",
+				"type": "general-purpose",
+				"actionText": "View",
+				"action": {
+					"action": "enable-scout-os-notifications",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "c4acc0b4-bcc5-4339-882e-545619b9129a",
+			"timestamp": 1724283171500,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Failed to run image. (HTTP code 409) unexpected - Conflict. The container name \"/postgres\" is already in use by container \"df95285241657766598b9afc18894dbc7ee4628c13a96fc60a5f309f58b54c1a\". You have to remove (or rename) that container to be able to reuse that name. ",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "ded8362f-2599-472f-9c81-a7eaf0a2d204",
+			"timestamp": 1724283185658,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Volume e5385691cb65184e5b16cd66cf961aa5cc01e3ca486386db79db63320eda7e29 is in use. Delete the container that's using it and try again.",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "e259d9f3-3152-4073-9fd4-9272e2ed567b",
+			"timestamp": 1724284795864,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Volume b6a7eca65e7f183c32384064ace06c253f9b1e06a572e1b06032b7e99c7928d9 is in use. Delete the container that's using it and try again.",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "9e32b5fa-828c-4c2b-bd34-8b25f4e56a7b",
+			"timestamp": 1724285736546,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"message": "Volume 162ddbc5e04810340421c7692b85d7a0444f8100db28b143a8aa2d53b821dddb is in use. Delete the container that's using it and try again.",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "f55a6839-96cc-4f11-a126-c6561c69a3a9",
+			"timestamp": 1724367542308,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "(HTTP code 304) container already stopped -  ",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "6487b33a-39a9-4498-95bf-038e00a64ef6",
+			"timestamp": 1724406359878,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Volume 7879a525fb7e28b83daf597a853071a38e3f9ecbae629b31505353390c2363b3 is in use. Delete the container that's using it and try again.",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "7ca14604-96ab-4d57-870f-b8b061547513",
+			"timestamp": 1725147178221,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Volume 8c39fdbd4f7e77ee208905852f17f4ce8bac6d5ef8ceee3a885ff77ab4bddee4 is in use. Delete the container that's using it and try again.",
+				"icon": "error",
+				"type": "error"
+			}
+		}
+	]
+}

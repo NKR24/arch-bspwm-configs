@@ -1,0 +1,5 @@
+2024/08/28-02:40:48.545 4ee Creating DB /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb since it was missing.
+2024/08/28-02:40:48.549 4ee Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/28-02:40:48.883 4ee Level-0 table #5: started
+2024/08/28-02:40:48.897 4ee Level-0 table #5: 1001904 bytes OK
+2024/08/28-02:40:48.900 4ee Delete type=0 #3

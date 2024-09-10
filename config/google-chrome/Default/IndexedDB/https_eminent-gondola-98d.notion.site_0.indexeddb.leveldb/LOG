@@ -1,0 +1,6 @@
+2024/08/20-01:59:05.619 3c2 Creating DB /home/unixelf/.config/google-chrome/Default/IndexedDB/https_eminent-gondola-98d.notion.site_0.indexeddb.leveldb since it was missing.
+2024/08/20-01:59:05.623 3c2 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_eminent-gondola-98d.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/20-01:59:07.292 3c1 Level-0 table #5: started
+2024/08/20-01:59:07.294 3c1 Level-0 table #5: 2681 bytes OK
+2024/08/20-01:59:07.296 3c1 Delete type=0 #3
+2024/08/20-01:59:07.296 3c3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,2 +1,3 @@
-2024/08/13-04:24:09.389 1220 Creating DB /home/unixelf/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb since it was missing.
-2024/08/13-04:24:09.392 1220 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/08-19:06:18.193 4bd Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/08-19:06:18.193 4bd Recovering log #3
+2024/09/08-19:06:18.194 4bd Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/000003.log 

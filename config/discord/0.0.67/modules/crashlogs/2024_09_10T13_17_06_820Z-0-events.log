@@ -1,0 +1,9 @@
+2024-09-10T13:17:06.825Z 0: 
+
+----------------------------------------------
+2024-09-10T13:17:06.832Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.67"}, modulepath: /home/unixelf/.config/discord/0.0.67/modules
+2024-09-10T13:17:06.836Z 2: ✅ webContents.created web1 ""
+2024-09-10T13:17:06.840Z 3: ✅ window.created win1 "discord"
+2024-09-10T13:17:07.102Z 4: ✅ webContents.did-finish-load web1
+2024-09-10T13:17:15.089Z 5: window.close win1
+2024-09-10T13:17:15.095Z 6: webContents.destroyed web1

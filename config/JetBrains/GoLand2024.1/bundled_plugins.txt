@@ -1,0 +1,140 @@
+Docker|Deployment
+
+Git4Idea|Version Controls
+
+HtmlTools|HTML and XML
+
+JSIntentionPowerPack|JavaScript Frameworks and Tools
+
+JavaScriptDebugger|JavaScript Frameworks and Tools
+
+JavaScript|JavaScript Frameworks and Tools
+
+Refactor-X|HTML and XML
+
+Remote Development Server|null
+
+com.intellij.completion.ml.ranking|Local AI/ML Tools
+
+com.intellij.configurationScript|null
+
+com.intellij.copyright|Other Tools
+
+com.intellij.css|Style Sheets
+
+com.intellij.database|Database
+
+com.intellij.dev|null
+
+com.intellij.diagram|Other Tools
+
+com.intellij.grpc|Microservices
+
+com.intellij.llmInstaller|Other Tools
+
+com.intellij.microservices.ui|Microservices
+
+com.intellij.platform.ide.provisioner|null
+
+com.intellij.platform.images|null
+
+com.intellij.plugins.colorful.darcula.colorscheme|UI
+
+com.intellij.plugins.goland.solarized.colorscheme|UI
+
+com.intellij.plugins.monokai.colorscheme|UI
+
+com.intellij.plugins.vscodekeymap|Keymap
+
+com.intellij.plugins.watcher|null
+
+com.intellij.react|JavaScript Frameworks and Tools
+
+com.intellij.rml.dfa|null
+
+com.intellij.searcheverywhere.ml|Local AI/ML Tools
+
+com.intellij.settingsSync|IDE Settings
+
+com.intellij.swagger|Microservices
+
+com.intellij|null
+
+com.jetbrains.codeWithMe|null
+
+com.jetbrains.gateway.terminal|null
+
+com.jetbrains.gateway|Remote Development
+
+com.jetbrains.performancePlugin.async|Other Tools
+
+com.jetbrains.performancePlugin.dynamicPlugins|null
+
+com.jetbrains.performancePlugin|Other Tools
+
+com.jetbrains.plugins.webDeployment|Deployment
+
+com.jetbrains.restClient|Microservices
+
+com.jetbrains.sh|Languages
+
+hg4idea|Version Controls
+
+idea.plugin.protoeditor|Microservices
+
+intellij.charts|null
+
+intellij.grid.core.impl|null
+
+intellij.grid.impl|null
+
+intellij.indexing.shared.core|null
+
+intellij.indexing.shared|null
+
+intellij.platform.ijent.impl|Deployment
+
+intellij.webpack|JavaScript Frameworks and Tools
+
+name.kropp.intellij.makefile|Languages
+
+org.editorconfig.editorconfigjetbrains|Other Tools
+
+org.intellij.intelliLang|Other Tools
+
+org.intellij.plugins.markdown|Languages
+
+org.intellij.qodana|null
+
+org.jetbrains.completion.full.line|Local AI/ML Tools
+
+org.jetbrains.plugins.docker.gateway|Remote Development
+
+org.jetbrains.plugins.emojipicker|Other Tools
+
+org.jetbrains.plugins.github|Version Controls
+
+org.jetbrains.plugins.gitlab|Version Controls
+
+org.jetbrains.plugins.go-template|Template Languages
+
+org.jetbrains.plugins.go.ide|null
+
+org.jetbrains.plugins.go.sharedIndexes.bundled|null
+
+org.jetbrains.plugins.go|Languages
+
+org.jetbrains.plugins.remote-run|null
+
+org.jetbrains.plugins.terminal|Other Tools
+
+org.jetbrains.plugins.textmate|Other Tools
+
+org.jetbrains.plugins.yaml|Languages
+
+org.jetbrains.security.package-checker|null
+
+tanvd.grazi|null
+
+training|null
+

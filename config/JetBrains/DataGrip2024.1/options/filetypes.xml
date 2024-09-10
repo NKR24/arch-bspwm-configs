@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping ext="pb.txt" type="prototext" />
+      <mapping ext="pbtxt" type="prototext" />
+      <mapping ext="protoascii" type="prototext" />
+      <mapping ext="textpb" type="prototext" />
+    </extensionMap>
+  </component>
+</application>

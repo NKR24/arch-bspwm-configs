@@ -1,0 +1,6 @@
+2024/08/21-00:58:14.241 10a2 Creating DB /home/unixelf/.config/google-chrome/Default/IndexedDB/https_soundcloud.com_0.indexeddb.leveldb since it was missing.
+2024/08/21-00:58:14.248 10a2 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_soundcloud.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/21-00:59:16.304 10a2 Level-0 table #5: started
+2024/08/21-00:59:16.307 10a2 Level-0 table #5: 13151 bytes OK
+2024/08/21-00:59:16.310 10a2 Delete type=0 #3
+2024/08/21-00:59:16.310 10a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

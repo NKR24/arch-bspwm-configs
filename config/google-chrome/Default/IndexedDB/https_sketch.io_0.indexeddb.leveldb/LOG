@@ -1,0 +1,6 @@
+2024/08/24-12:33:42.605 7c3 Creating DB /home/unixelf/.config/google-chrome/Default/IndexedDB/https_sketch.io_0.indexeddb.leveldb since it was missing.
+2024/08/24-12:33:42.608 7c3 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_sketch.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/24-12:33:42.618 7c5 Level-0 table #5: started
+2024/08/24-12:33:42.620 7c5 Level-0 table #5: 1543 bytes OK
+2024/08/24-12:33:42.622 7c5 Delete type=0 #3
+2024/08/24-12:33:42.623 7c3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

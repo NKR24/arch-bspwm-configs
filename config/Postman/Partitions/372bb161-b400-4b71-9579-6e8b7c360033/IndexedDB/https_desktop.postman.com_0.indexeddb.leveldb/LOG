@@ -1,0 +1,11 @@
+2024/09/02-01:09:30.718 1377f Creating DB /home/unixelf/.config/Postman/Partitions/372bb161-b400-4b71-9579-6e8b7c360033/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb since it was missing.
+2024/09/02-01:09:30.725 1377f Reusing MANIFEST /home/unixelf/.config/Postman/Partitions/372bb161-b400-4b71-9579-6e8b7c360033/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/02-01:09:30.732 13794 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/02-01:09:31.115 1377f Level-0 table #5: started
+2024/09/02-01:09:31.116 1377f Level-0 table #5: 4197 bytes OK
+2024/09/02-01:09:31.118 1377f Delete type=0 #3
+2024/09/02-01:09:31.118 1377f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/02-01:09:31.120 13794 Level-0 table #7: started
+2024/09/02-01:09:31.121 13794 Level-0 table #7: 504 bytes OK
+2024/09/02-01:09:31.123 13794 Delete type=0 #4
+2024/09/02-01:09:31.123 1377f Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,12 +1,78 @@
 {
    "epochs": [ {
-      "calculation_time": "13367976874683339",
+      "calculation_time": "13368400860283177",
       "config_version": 0,
       "model_version": "0",
       "padded_top_topics_start_index": 0,
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
+   }, {
+      "calculation_time": "13369009316481546",
+      "config_version": 2,
+      "model_version": "5",
+      "padded_top_topics_start_index": 5,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 126
+      }, {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 436
+      }, {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 140
+      }, {
+         "hashed_domains": [ "-2410534736474480629", "-1902112109025476090" ],
+         "topic": 1
+      }, {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 215
+      } ]
+   }, {
+      "calculation_time": "13369616124053352",
+      "config_version": 2,
+      "model_version": "5",
+      "padded_top_topics_start_index": 5,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 238
+      }, {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 250
+      }, {
+         "hashed_domains": [ "-2410534736474480629", "-1902112109025476090" ],
+         "topic": 1
+      }, {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 363
+      }, {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 351
+      } ]
+   }, {
+      "calculation_time": "13370220924333697",
+      "config_version": 2,
+      "model_version": "5",
+      "padded_top_topics_start_index": 5,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 436
+      }, {
+         "hashed_domains": [ "-1319436136361216637" ],
+         "topic": 141
+      }, {
+         "hashed_domains": [ "-1902112109025476090", "-1319436136361216637" ],
+         "topic": 126
+      }, {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 289
+      }, {
+         "hashed_domains": [ "-1902112109025476090" ],
+         "topic": 404
+      } ]
    } ],
-   "hex_encoded_hmac_key": "EA861F4D77ABF89E5EE19BE1C853A467CC983E928FC4F7938C7FF70E4B7F405D",
-   "next_scheduled_calculation_time": "13368581674684260"
+   "hex_encoded_hmac_key": "311D02C98691AB98D7028DF2E261339FAAF450A44BF892E5B3BA9E4984D128C1",
+   "next_scheduled_calculation_time": "13370825724571010"
 }

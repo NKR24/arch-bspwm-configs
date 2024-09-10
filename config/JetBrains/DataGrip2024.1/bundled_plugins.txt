@@ -1,0 +1,46 @@
+Git4Idea|Version Controls
+
+Remote Development Server|null
+
+XPathView|HTML and XML
+
+com.intellij.completion.ml.ranking|Local AI/ML Tools
+
+com.intellij.configurationScript|null
+
+com.intellij.database.ide|null
+
+com.intellij.database|Database
+
+com.intellij.dev|null
+
+com.intellij.diagram|Other Tools
+
+com.intellij.llmInstaller|Other Tools
+
+com.intellij.platform.ide.provisioner|null
+
+com.intellij.platform.images|null
+
+com.intellij.plugins.datagrip.solarized.colorscheme|UI
+
+com.intellij.searcheverywhere.ml|Local AI/ML Tools
+
+com.intellij.settingsSync|IDE Settings
+
+com.intellij|null
+
+com.jetbrains.performancePlugin.async|Other Tools
+
+com.jetbrains.performancePlugin|Other Tools
+
+intellij.charts|null
+
+intellij.grid.core.impl|null
+
+intellij.grid.impl|null
+
+org.intellij.intelliLang|Other Tools
+
+org.jetbrains.plugins.textmate|Other Tools
+

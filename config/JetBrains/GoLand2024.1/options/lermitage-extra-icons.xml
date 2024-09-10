@@ -1,0 +1,8 @@
+<application>
+  <component name="ExtraIconsSettings">
+    <option name="additionalUIScale2" value="1.0" />
+    <option name="uiTypeIconsPreference" value="BASED_ON_ACTIVE_UI_TYPE" />
+    <option name="useIDEFilenameIndex2" value="true" />
+    <option name="pluginIsConfigurableHintNotifDisplayed" value="true" />
+  </component>
+</application>

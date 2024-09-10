@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/git/grpc-crud">
+          <value>
+            <RecentProjectMetaInfo frameTitle="grpc-crud – users.proto" opened="true" projectWorkspaceId="2ksYb9zHKw1v12F1WrHRipzo2fZ">
+              <option name="activationTimestamp" value="1725974254189" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-241.14494.238" />
+              <option name="buildTimestamp" value="1711602540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="17" y="62" width="1876" height="991" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1725146735303" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/git/grpc-crud" />
+  </component>
+</application>

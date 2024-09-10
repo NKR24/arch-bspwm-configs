@@ -1,3 +1,6 @@
-2024/08/13-18:21:19.641 8a79 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/13-18:21:19.642 8a79 Recovering log #3
-2024/08/13-18:21:19.646 8a79 Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/09/09-22:38:06.355 4a9 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/09-22:38:06.355 4a9 Recovering log #33
+2024/09/09-22:38:06.361 4a9 Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000033.log 
+2024/09/09-22:38:08.385 4aa Level-0 table #39: started
+2024/09/09-22:38:08.400 4aa Level-0 table #39: 1682677 bytes OK
+2024/09/09-22:38:08.403 4aa Delete type=0 #33

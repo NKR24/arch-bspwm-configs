@@ -1,3 +1,15 @@
-2024/08/13-04:09:29.846 1221 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/13-04:09:29.846 1221 Recovering log #3
-2024/08/13-04:09:29.847 1221 Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2024/08/23-01:58:54.811 4a9 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/23-01:58:54.811 4a9 Recovering log #4
+2024/08/23-01:58:54.812 4a9 Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log 
+2024/08/23-01:59:26.808 4aa Level-0 table #8: started
+2024/08/23-01:59:26.810 4aa Level-0 table #8: 1388 bytes OK
+2024/08/23-01:59:26.813 4aa Delete type=0 #4
+2024/08/23-01:59:26.813 4aa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/23-01:59:26.814 4aa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 123 : 1
+2024/08/23-01:59:26.814 4aa Compacting 1@1 + 1@2 files
+2024/08/23-01:59:26.816 4aa Generated table #9@1: 23 keys, 807 bytes
+2024/08/23-01:59:26.816 4aa Compacted 1@1 + 1@2 files => 807 bytes
+2024/08/23-01:59:26.818 4aa compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/23-01:59:26.819 4aa Delete type=2 #8
+2024/08/23-01:59:26.819 4aa Delete type=2 #5
+2024/08/23-01:59:26.820 4aa Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 123 : 1 .. (end); will stop at (end)

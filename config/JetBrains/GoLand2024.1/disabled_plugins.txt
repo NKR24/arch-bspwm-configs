@@ -1,0 +1,2 @@
+com.intellij.kubernetes
+io.kanro.idea.plugin.protobuf

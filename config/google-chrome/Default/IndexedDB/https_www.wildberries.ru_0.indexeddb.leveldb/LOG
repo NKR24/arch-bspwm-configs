@@ -1,0 +1,101 @@
+2024/08/28-02:40:58.537 4ee Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/28-02:40:58.538 4ee Recovering log #4
+2024/08/28-02:40:58.564 4ee Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb/000004.log 
+2024/08/28-02:41:03.838 4ef Level-0 table #8: started
+2024/08/28-02:41:03.853 4ef Level-0 table #8: 991288 bytes OK
+2024/08/28-02:41:03.855 4ef Delete type=0 #4
+2024/08/28-02:41:03.943 4ef Level-0 table #10: started
+2024/08/28-02:41:03.953 4ef Level-0 table #10: 1358557 bytes OK
+2024/08/28-02:41:03.956 4ef Delete type=0 #7
+2024/08/28-02:41:03.965 4ef Compacting 1@0 + 1@1 files
+2024/08/28-02:41:03.996 4ef Generated table #11@0: 79357 keys, 2168905 bytes
+2024/08/28-02:41:03.996 4ef Compacted 1@0 + 1@1 files => 2168905 bytes
+2024/08/28-02:41:03.998 4ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/28-02:41:03.998 4ef Delete type=2 #8
+2024/08/28-02:41:03.998 4ef Delete type=2 #10
+2024/08/28-02:41:04.079 4ef Level-0 table #13: started
+2024/08/28-02:41:04.089 4ef Level-0 table #13: 1336942 bytes OK
+2024/08/28-02:41:04.092 4ef Delete type=0 #9
+2024/08/28-02:41:04.092 4ef Compacting 1@0 + 1@1 files
+2024/08/28-02:41:04.127 4ef Generated table #14@0: 89103 keys, 2237946 bytes
+2024/08/28-02:41:04.138 4ef Generated table #15@0: 20914 keys, 1208377 bytes
+2024/08/28-02:41:04.138 4ef Compacted 1@0 + 1@1 files => 3446323 bytes
+2024/08/28-02:41:04.140 4ef compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/08/28-02:41:04.181 4ef Level-0 table #17: started
+2024/08/28-02:41:04.191 4ef Level-0 table #17: 1328539 bytes OK
+2024/08/28-02:41:04.193 4ef Delete type=2 #13
+2024/08/28-02:41:04.193 4ef Delete type=0 #12
+2024/08/28-02:41:04.193 4ef Delete type=2 #11
+2024/08/28-02:41:04.194 4ef Compacting 1@0 + 2@1 files
+2024/08/28-02:41:04.228 4ef Generated table #18@0: 105768 keys, 2257456 bytes
+2024/08/28-02:41:04.244 4ef Generated table #19@0: 14418 keys, 2144118 bytes
+2024/08/28-02:41:04.249 4ef Generated table #20@0: 20491 keys, 313196 bytes
+2024/08/28-02:41:04.249 4ef Compacted 1@0 + 2@1 files => 4714770 bytes
+2024/08/28-02:41:04.252 4ef compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/08/28-02:41:04.252 4ef Delete type=2 #15
+2024/08/28-02:41:04.252 4ef Delete type=2 #17
+2024/08/28-02:41:04.252 4ef Delete type=2 #14
+2024/08/28-02:41:04.323 4ef Level-0 table #22: started
+2024/08/28-02:41:04.334 4ef Level-0 table #22: 1352337 bytes OK
+2024/08/28-02:41:04.336 4ef Delete type=0 #16
+2024/08/28-02:41:04.337 4ef Compacting 1@0 + 3@1 files
+2024/08/28-02:41:04.371 4ef Generated table #23@0: 122607 keys, 2278345 bytes
+2024/08/28-02:41:04.386 4ef Generated table #24@0: 14278 keys, 2145290 bytes
+2024/08/28-02:41:04.403 4ef Generated table #25@0: 34412 keys, 1582917 bytes
+2024/08/28-02:41:04.403 4ef Compacted 1@0 + 3@1 files => 6006552 bytes
+2024/08/28-02:41:04.405 4ef compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/08/28-02:41:04.423 4ef Level-0 table #27: started
+2024/08/28-02:41:04.433 4ef Level-0 table #27: 1345193 bytes OK
+2024/08/28-02:41:04.435 4ef Delete type=0 #21
+2024/08/28-02:41:04.435 4ef Delete type=2 #20
+2024/08/28-02:41:04.435 4ef Delete type=2 #18
+2024/08/28-02:41:04.435 4ef Delete type=2 #22
+2024/08/28-02:41:04.435 4ef Delete type=2 #19
+2024/08/28-02:41:04.436 4ef Compacting 1@0 + 3@1 files
+2024/08/28-02:41:04.480 4ef Generated table #28@0: 139307 keys, 2299871 bytes
+2024/08/28-02:41:04.500 4ef Generated table #29@0: 14082 keys, 2144191 bytes
+2024/08/28-02:41:04.519 4ef Generated table #30@0: 14214 keys, 2145140 bytes
+2024/08/28-02:41:04.531 4ef Generated table #31@0: 34104 keys, 703236 bytes
+2024/08/28-02:41:04.531 4ef Compacted 1@0 + 3@1 files => 7292438 bytes
+2024/08/28-02:41:04.538 4ef compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/08/28-02:41:04.538 4ef Delete type=2 #25
+2024/08/28-02:41:04.538 4ef Delete type=2 #23
+2024/08/28-02:41:04.538 4ef Delete type=2 #24
+2024/08/28-02:41:04.538 4ef Delete type=2 #27
+2024/08/28-02:41:04.565 4ef Level-0 table #33: started
+2024/08/28-02:41:04.577 4ef Level-0 table #33: 1302496 bytes OK
+2024/08/28-02:41:04.579 4ef Delete type=0 #26
+2024/08/28-02:41:04.581 4ef Compacting 1@0 + 4@1 files
+2024/08/28-02:41:04.620 4ef Generated table #34@0: 155843 keys, 2319225 bytes
+2024/08/28-02:41:04.635 4ef Generated table #35@0: 13932 keys, 2143928 bytes
+2024/08/28-02:41:04.651 4ef Generated table #36@0: 14222 keys, 2143769 bytes
+2024/08/28-02:41:04.670 4ef Generated table #37@0: 47870 keys, 1928897 bytes
+2024/08/28-02:41:04.670 4ef Compacted 1@0 + 4@1 files => 8535819 bytes
+2024/08/28-02:41:04.672 4ef compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/08/28-02:41:04.678 4ef Level-0 table #39: started
+2024/08/28-02:41:04.687 4ef Level-0 table #39: 1241243 bytes OK
+2024/08/28-02:41:04.689 4ef Delete type=2 #31
+2024/08/28-02:41:04.689 4ef Delete type=2 #30
+2024/08/28-02:41:04.689 4ef Delete type=2 #33
+2024/08/28-02:41:04.689 4ef Delete type=2 #28
+2024/08/28-02:41:04.689 4ef Delete type=2 #29
+2024/08/28-02:41:04.689 4ef Delete type=0 #32
+2024/08/28-02:41:04.690 4f1 Compacting 1@0 + 4@1 files
+2024/08/28-02:41:04.735 4f1 Generated table #40@0: 169765 keys, 2336757 bytes
+2024/08/28-02:41:04.751 4f1 Generated table #41@0: 15991 keys, 2147461 bytes
+2024/08/28-02:41:04.765 4f1 Generated table #42@0: 14298 keys, 2144923 bytes
+2024/08/28-02:41:04.779 4f1 Generated table #43@0: 14470 keys, 2145974 bytes
+2024/08/28-02:41:04.786 4f1 Level-0 table #46: started
+2024/08/28-02:41:04.797 4f1 Level-0 table #46: 1208283 bytes OK
+2024/08/28-02:41:04.799 4f1 Delete type=0 #38
+2024/08/28-02:41:04.804 4f1 Generated table #44@0: 46868 keys, 955335 bytes
+2024/08/28-02:41:04.804 4f1 Compacted 1@0 + 4@1 files => 9730450 bytes
+2024/08/28-02:41:04.806 4f1 compacted to: files[ 1 5 1 0 0 0 0 ]
+2024/08/28-02:41:08.538 4ef Level-0 table #48: started
+2024/08/28-02:41:08.555 4ef Level-0 table #48: 689526 bytes OK
+2024/08/28-02:41:08.558 4ef Delete type=2 #39
+2024/08/28-02:41:08.558 4ef Delete type=2 #34
+2024/08/28-02:41:08.558 4ef Delete type=2 #35
+2024/08/28-02:41:08.558 4ef Delete type=0 #45
+2024/08/28-02:41:08.558 4ef Delete type=2 #37
+2024/08/28-02:41:08.558 4ef Delete type=2 #36

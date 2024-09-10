@@ -1,0 +1,6 @@
+2024/09/02-19:13:00.036 63f Creating DB /home/unixelf/.config/google-chrome/Default/IndexedDB/https_selectel.ru_0.indexeddb.leveldb since it was missing.
+2024/09/02-19:13:00.039 63f Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_selectel.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/02-20:04:43.778 640 Level-0 table #5: started
+2024/09/02-20:04:43.780 640 Level-0 table #5: 8454 bytes OK
+2024/09/02-20:04:43.782 640 Delete type=0 #3
+2024/09/02-20:04:43.783 640 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

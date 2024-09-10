@@ -6,10 +6,10 @@ text/x-python=micro.desktop
 image/jpeg=feh.desktop
 application/x-shellscript=micro.desktop
 application/sql=sqlitebrowser.desktop
-x-scheme-handler/http=firefox.desktop
-x-scheme-handler/https=firefox.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
 x-scheme-handler/chrome=firefox.desktop
-text/html=firefox.desktop
+text/html=google-chrome.desktop
 application/x-extension-htm=firefox.desktop
 application/x-extension-html=firefox.desktop
 application/x-extension-shtml=firefox.desktop
@@ -17,7 +17,10 @@ application/xhtml+xml=firefox.desktop
 application/x-extension-xhtml=firefox.desktop
 application/x-extension-xht=firefox.desktop
 font/woff2=org.gnome.font-viewer.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
 x-scheme-handler/tonsite=org.telegram.desktop.desktop
+x-scheme-handler/postman=Postman.desktop
 
 [Added Associations]
 inode/directory=xfce4-file-manager.desktop;

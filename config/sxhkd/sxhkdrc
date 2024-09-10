@@ -23,14 +23,15 @@ super + w
 
 # Change language
 Alt_L + shift
-	sh $HOME/bin/change_language.sh
+	setxkbmap -layout "us,ru" -option grp:alt_shift_toggle
 
 Shift_L + alt
-	sh $HOME/bin/change_language.sh
+	setxkbmap -layout "us,ru" -option grp:alt_shift_toggle
     
 # Launch Rofi Menu
 super + {d,x}
     {rofi -show drun,sh $HOME/bin/powermenu}
+
 
 # Launch Applications
 super + shift + {t,g,d,s}
@@ -39,7 +40,7 @@ super + shift + {t,g,d,s}
 	 discord, \
 	 spotify, \
 	 }
-	
+
      
 # Select window to close
 super + a

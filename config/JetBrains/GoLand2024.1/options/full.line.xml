@@ -1,0 +1,10 @@
+<application>
+  <component name="MLServerCompletionSettings">
+    <LangState language_id="SvelteJS">
+      <option name="enabled" value="true" />
+    </LangState>
+    <LangState language_id="SvelteTS">
+      <option name="enabled" value="true" />
+    </LangState>
+  </component>
+</application>

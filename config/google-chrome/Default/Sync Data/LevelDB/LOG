@@ -1,9 +1,15 @@
-2024/08/13-18:18:42.153 8a79 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/08/13-18:18:42.154 8a79 Recovering log #29
-2024/08/13-18:18:42.154 8a79 Reusing old log /home/unixelf/.config/google-chrome/Default/Sync Data/LevelDB/000029.log 
-2024/08/13-20:35:54.828 8a81 Level-0 table #33: started
-2024/08/13-20:35:54.832 8a81 Level-0 table #33: 101837 bytes OK
-2024/08/13-20:35:54.835 8a81 Delete type=0 #29
-2024/08/14-02:23:24.121 8a84 Level-0 table #35: started
-2024/08/14-02:23:24.125 8a84 Level-0 table #35: 111250 bytes OK
-2024/08/14-02:23:24.128 8a84 Delete type=0 #32
+2024/09/10-21:32:24.436 9e4 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/09/10-21:32:24.437 9e4 Recovering log #285
+2024/09/10-21:32:24.438 9e4 Reusing old log /home/unixelf/.config/google-chrome/Default/Sync Data/LevelDB/000285.log 
+2024/09/10-21:35:56.293 9e4 Level-0 table #289: started
+2024/09/10-21:35:56.296 9e4 Level-0 table #289: 101502 bytes OK
+2024/09/10-21:35:56.299 9e4 Delete type=0 #285
+2024/09/10-21:35:56.301 9e3 Compacting 4@0 + 1@1 files
+2024/09/10-21:35:56.306 9e3 Generated table #290@0: 225 keys, 23681 bytes
+2024/09/10-21:35:56.306 9e3 Compacted 4@0 + 1@1 files => 23681 bytes
+2024/09/10-21:35:56.308 9e3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/10-21:35:56.309 9e3 Delete type=2 #279
+2024/09/10-21:35:56.309 9e3 Delete type=2 #286
+2024/09/10-21:35:56.309 9e3 Delete type=2 #281
+2024/09/10-21:35:56.309 9e3 Delete type=2 #289
+2024/09/10-21:35:56.309 9e3 Delete type=2 #283
